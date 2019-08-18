@@ -1,0 +1,895 @@
+1. Quadrillage
+Sector forces: Place up to all French
+Police in Available in up to 3 spaces.
+Exploit unit boundaries: FLN executes
+2 free Limited Marches.
+Background: The great majority
+of French forces committed to the
+war were “sector troops” who were
+deployed in a dispersed pattern
+suggestive of the grid squares on a
+military map across the countryside
+(hence quadrillage) to control the
+population and interfere with FLN operations.
+2. Balky Conscripts
+Aux armes citoyens! Free Train in up to 2 selectable spaces.
+Pas avec moi: Until Propaganda, Government may not Deploy
+French Police from Available.
+FLN MOMENTUM
+Background: The war in Algeria was not popular in France, especially
+among the young draftees sent to fight in it. There were
+numerous cases of sit-down strikes and near mutinies among units
+detailed for Algeria, especially in the time of the initial mobilization
+period of 1955-56, when tens of thousands of reservists who had
+already served 18 months were kept on for service in Algeria.
+3. Leadership Snatch
+Gotcha! Activate all Guerrillas in 1 Wilaya.
+Widespread rage: Set up to 2 FLN-Controlled spaces to Oppose.
+Background: In October 1956, the French captured five major
+leaders of the FLN, including Ahmed Ben Bella (a founding member
+who would become Algeria’s first President), by diverting their
+aircraft to Algeria (they had been travelling to Tunisia to meet with
+President Bourguiba). It was a great intelligence coup, but the local
+and international reaction was very hostile.
+4. Oil & Gas Discoveries
+Executor of the Event may add up to +2 Commitment. French cubes
+equal to twice the Commitment added are removed from the map
+or Available to Out of Play (Government player’s choice exactly
+which cubes go).
+Background: The discovery of substantial oil deposits in the Sahara
+desert (off the southern edge of the game map) in 1956 encouraged
+the French government to intensify its efforts to keep Algeria. This
+was also a factor in its decision to grant independence to Morocco
+and Tunisia, in order to save effort resisting the independence movements
+in these colonies. But exploiting these resources required
+deployment of security forces to protect pipelines and drilling sites.
+5. Peace of the Brave
+Amnesty: Until Propaganda, in each selected Sweep or Assault space,
+may also pay an extra 1 Resource to remove 1 Guerrilla (may be
+Underground, maximum 1 per space, removed to Available).
+GOVERNMENT MOMENTUM
+Fight like hell: Free Rally in any 2 selectable spaces.
+Background: In October 1958, de Gaulle promised amnesty for
+thousands of existing FLN prisoners, and eventually to commute
+all death sentences. He also offered the “paix des braves” a fresh
+amnesty offered to FLN members who would desert.
+6. Factionalism
+Friction: Either remove up to 3 Guerrillas in any 1 Wilaya to Available,
+or move the France Track up to 2 boxes towards “A”.
+Lube: Free Rally in any 1 selectable space with a Base.
+Background: There was constant dissension among the political
+leadership of the FLN and the leadership of the movement’s military
+wing, the Armee de Liberation Nationale (ALN), on how best to
+conduct the war against the French. This is a weakness as common
+to insurgent movements as it is to the governments that oppose them.
+7. 5th Bureau
+Psychological warfare: Choose 1 Wilaya and roll 1d6; if roll ≤ total
+Guerrillas there, remove up to (the number rolled) Guerrillas from
+that Wilaya to Available.
+Propaganda flop: Shift any 2 Sectors 1 level each towards Opposition.
+
+Background: The “5th Bureau” was the psychological warfare
+branch of the French military operation in Algeria. Besides producing
+the usual forms of printed and audiovisual propaganda, the Bureau
+also made frequent use of “turned” insurgents to spread false information
+and rumours, which exploited the Wilaya leaders’ fears and
+mistrust of each other. The Bureau also created several “false flag”
+and pseudo-guerrilla operations to further confuse the insurgents.
+However, many of the officers of the 5th Bureau were identified with
+senior leaders who were opposed to de Gaulle, and when several of
+them participated in the “Week of the Barricades” in January 1960
+de Gaulle disbanded the organization the following month.
+The illustration is of Colonel Roger Trinquier, who wrote Modern
+Warfare: A French View of Counterinsurgency (1961) in which he
+emphasized the role groups of government-created irregular troops
+could play in resisting and defeating insurgents.
+8. Cross-border air strike
+Effective: Remove up to 3 Guerrillas
+(may be Underground) from either
+Morocco or Tunisia (if independent)
+to Available.
+Helicopter Maintenance: Until Propaganda
+Round, lower number of
+Troop Lift spaces by 1.
+FLN MOMENTUM
+Background: The FLN operated
+with near-impunity from camps in
+Morocco and Tunisia. On several
+occasions the French did strike across the border with air power: the
+best known incident was near the Tunisian town of Sakiet in February
+1958. After several months of border incidents in the area, the French
+Air Force destroyed most of the town using American-supplied B-26
+bombers. At least 68 civilians were killed and this provoked a major
+international incident.
+16 
+
+9. Beni-Oui-Oui
+Executor sets up to 2 non-Terrorized Neutral spaces to Support or
+Opposition.
+Background: “Beni-Oui-Oui” was a pejorative term that could be
+translated as “Tribe of the Yes-men”, to characterize those older
+Algerians, often long-service veterans of France’s wars, who felt
+they had a stake in continuing French rule of the country.
+10. Moudjahidine
+Braggadocio: Activate all Guerrillas in any 1 Wilaya.
+Sign me up: Until Propaganda Round, treat each Rally in a FLN-Controlled
+space with no Base as if it contained 1 Base.
+FLN MOMENTUM
+11. Bananes
+H-21 helicopters: Until Propaganda Round, raise number of Troop
+Lift spaces by 2.
+GOVERNMENT MOMENTUM
+Misguided airstrike incident: –1 Commitment.
+Background: The Piasecki H-21 Shawnee, nicknamed “the banana”
+by the French troops, was one of the first troop-carrying helicopters
+to be used in large numbers in the Cold War. It could carry 20 troops
+and had a range of about 265 miles.
+12. Ventilos
+S-55 helicopters: Until Propaganda
+Round, raise number of Troop Lift
+spaces by 1.
+GOVERNMENT MOMENTUM
+FLN Navy: May redistribute 1-3
+Guerrillas (1d6 halved, round up)
+among any 3 coastal spaces for free.
+Guerrillas do not Activate.
+Background: The Sikorsky S-55,
+also known as the H-19 Chickasaw
+and nicknamed “the fan” by the
+French troops, was the first helicopter to be used by the French in
+Algeria. It carried up to 12 troops and had a range of over 400 miles
+but was replaced in beginning in late 1957 by the more reliable H-21
+Shawnee. The French also experimented with arming S-55s with
+20mm cannon, rocket launchers, and machine guns, so creating the
+first helicopter gunships.
+The FLN was able to infiltrate small numbers of fighters and weapons
+along the coast of Algeria, despite the best efforts of the French Navy.
+13. SAS
+GOVERNMENT CAPABILITY
+Hearts and minds: Train may Pacify in up to 2 selectable spaces.
+Caution: Assault may target only 1 space per card.
+Background: SAS stands for Sections Administrative Spécialisées
+(Special Administrative Sections). Their mission was to extend the
+reach and influence of the French colonial power in the rural areas of
+Algeria. The program started in 1955, and expanded rapidly. French
+officers called képis bleus (blue caps) were given special language
+and administrative training, and were sent to assume control of all
+aspects of life in selected rural villages. An SAS officer was a source
+of military and civil authority and decision making, and killing him
+was a common objective of insurgents operating in his sector. SAS
+officers also recruited large numbers of moghazni, irregular troops
+armed with shotguns or old rifles, for protecting villages and gathering
+intelligence. Some SAS officers were much better at their jobs
+than others but generally the program was a success.
+14. Protest in Paris
+Executor of Event may move France Track marker up to 2 spaces
+left or right.
+Background: Paris witnessed many demonstrations against the
+French government and the war, both by expatriate Algerians
+and by left-wing parties and trade unions. Some turned violent:
+in October 1961, French police attacked a demonstration of over
+30,000 Algerians and as many as 200 were killed. The effect of
+this card is to either suppress or inflame reaction to the war. It also
+partly accounts for the “Café Wars”, the sustained vicious struggle
+between the FLN and the Mouvement Nationale Algerien, its main
+organizational rival, as they vied for the support of the hundreds of
+thousands of Algerian expatriates working in France.
+15. Jean-Paul Sartre
+Writes a play, donates royalties: +2
+FLN Resources.
+Signs manifesto: –1 Commitment.
+(And either way, he and Albert
+Camus are not friends anymore.)
+Background: This card reflects the
+actions of French intellectuals and
+cultural figures in opposing the war,
+particularly the use of torture by
+French forces. The “Manifesto of
+the 121”, a declaration published in
+September 1960 is an example of this and helped to mobilize public
+opinion and action against the war. Sartre was very vocal in support
+of the FLN and was the target of at least one assassination attempt
+by the OAS. Meanwhile, the writer Albert Camus, born in Algeria,
+defended the French government’s actions and supported the idea
+of co-existence and peaceful negotiation. He was ostracised by leftwing
+intellectuals for this.
+16. NATO
+Force de Frappe releases conventional troops: Move 1d6 French
+cubes from Out of Play to Available.
+Continental war scare: Move 1d6 French cubes from Available or
+map to Out of Play (Government player’s choice which).
+Either way, no change in Commitment.
+Background: By 1958, almost half of the French Army was deployed
+to Algeria. This seriously diminished its contribution to the
+defense of Europe and strained relations with NATO and the United
+States. The decision that France should develop nuclear weapons
+and use them in its defense had been taken in the early 1950s, and
+de Gaulle’s decision in 1958 to create the Force de Frappe (Striking
+Force) as a nuclear-armed force independent of NATO command
+was a further step down this road.
+
+
+17. Commandos
+FLN CAPABILITY
+Commandos de Chasse: Each Algerian cube participating in a Garrison
+or Sweep in Mountain Sector Activates 1 Guerrilla.
+Zonal Commandos: Ambush does not Activate the Guerrilla.
+Background: The Commandos de Chasse were very effective.
+Composed mostly of former FLN insurgents, they operated in platoon
+to company-sized units and would go on long range patrols in
+FLN controlled territory in order to determine the location of FLN
+units. When they located an FLN unit they would follow it and,
+once it was in a vulnerable location, guide air strikes or airmobile
+intervention forces onto it to destroy or disrupt it. For its part, the
+FLN would group its best trained and best equipped fighters as
+“zonal” commandos, who would have the job of executing complex
+ambushes or raids.
+A set of markers has been provided for you to place in the 19
+Mountain spaces as a reminder of the “Commandos de Chasse”
+Capability’s effects.
+18. Torture
+DUAL CAPABILITY
+–1 Commitment for each Neutralize executed. In each selected
+Neutralize space, may remove 1 additional piece, which may be
+Underground. (Guerrillas before Bases rule still applies, removed
+Guerrilla goes to Available or Casualties depending on sequence).
+Background: The card illustration is of a “gegene”, a hand-cranked
+electrical generator normally used to power radios or field telephone
+systems. Interrogators would attach the electrodes to different body
+parts of FLN prisoners to extract confessions; many other methods
+of physical coercion were used, involving water, suspension,
+physical beatings, rape and sleep deprivation. During and after the
+war, military men and analysts never agreed as to whether torture
+was most effective as a way to gain information, or as a means to
+demonstrate resolve and demoralize the insurgent enemy, or whether
+it accomplished anything at all besides moral decay and atrocities
+additional to those the FLN habitually committed (the effects of
+which have been worked into the game through the Terror operation).
+Sixty years later, even as French society reluctantly comes to terms
+with the Algerian War, the debate continues.
+This card is presented as a dual Capability that has good and bad
+effects for both players every time it is used: the short-term military
+benefit to the Government player has a long-term political cost.
+19. General Strike
+Heads broken: Set 1 selected City to
+Neutral. Add Commitment = Population
+of City.
+United Nations resolution condemning
+violence raises FLN profile: +2
+FLN Resources.
+Background: This card can represent
+a general strike by either side.
+In February 1956 angry pieds-noirs
+welcomed the then Prime Minister,
+Guy Mollet, with a strike and mob
+violence, which led him to change his stance on the war and become
+committed to France’s “civilizing mission” in Algeria. This resulted
+in the government gaining special powers to suppress the FLN,
+and both a recall of conscripts and an extension of their military
+service. Meanwhile, the climax of the “Battle of Algiers” in 1957
+was a general strike by the Muslim population of the city, meant
+to demonstrate the influence and authority of the FLN but which
+crumbled under the heavy-handed response.
+20. Sauve qui peut
+Defections and desertions: Executor of Event may remove up to 3
+Guerrillas or Algerian Police to Available, paying 1 Resource each.
+Background: In hopes of making the enemy troops surrender, desert
+or simply sit on their hands, both sides exercised considerable
+psychological pressure, from propaganda and bribes to threats,
+blackmail, mutilations, and massacres.
+21. United Nations Resolution
+Mind your own business! +1 Commitment.
+Binding: –1 Commitment.
+Background: The United Nations frequently discussed the Algerian
+question from the time of the beginning of the revolt in 1954. On
+December 20, 1960, the United Nations formally recognized Algeria’s
+right to self-determination. This strengthened international
+condemnation of France’s actions, even though they were about to
+enter peace negotiations with the FLN.
+22. The Government of
+the United States of
+America is Convinced…
+FLN are Communists: +2 Commitment.
+Algeria is entitled to self-determination:
+–2 Commitment.
+Background: Diplomatic relations
+between the United States and
+France were mostly cordial during
+the war, though there were episodes
+of tension. The United States at
+the time regarded Arab and African nationalism as an inevitable
+byproduct of and reaction to the long British and French colonial
+dominations. This attitude tested the long friendship between the
+two countries as the United States tried to take the middle ground.
+This position was further complicated by fears that the FLN was
+infiltrated by Communists, and that American military aid supplied
+to France for NATO purposes was promptly used in Algeria. (In
+fact, while it may have been pleased to receive recognition and aid
+from Communist countries, the FLN was philosophically strongly
+anti-Communist.)
+23. Diplomatic Leanings
+Pressure on protectorates: Remove up to 1 Base in each of Morocco
+and Tunisia (if independent). No increase in Commitment.
+Arab Bloc solidarity: +6 FLN Resources.
+Background: Even though Morocco and Tunisia had been given
+independence, France still exerted considerable influence over the
+new governments and retained military bases in both countries for
+some time. 
+18 
+
+24. Economic Development
+Constantine Plan: Set up to 2 Government-Controlled spaces to
+Support.
+Military funds diverted to social enterprises: –6 Government Resources.
+Background: The Constantine Plan announced by Charles de
+Gaulle in October 1958 was an ambitious scheme to improve the
+standard of living for Algeria’s Muslim population. Distribution
+of land, construction of housing and schools, raising salaries and
+other initiatives were intended to address their grievances and build
+support for continued French rule.
+25. Purge
+Disloyal commanders: 1-3 enemy pieces (1d6 halved, round up;
+executor’s choice, but not Bases) moved from map to Available;
+and –1d6 Enemy Resources.
+Background: Senior commanders and unit leaders on both sides
+were often transferred or dismissed if they were seen to be unsupportive
+of the political leadership’s policies and decisions. This
+normally had a disruptive effect on operations.
+26. Casbah
+Ratonnade: Remove up to all FLN
+pieces in Algiers to Available. +1
+Commitment per Base removed,
++1 FLN Resource for each piece
+removed.
+Urban uprising: Place up to 4 Guerrillas
+in Algiers. If this makes Algiers
+FLN-Controlled, may Agitate up to 1
+level for free.
+Background: The Casbah was the
+main Arab quarter in Algiers. Over
+80,000 people lived in a 40-acre maze of buildings and narrow
+alleys, a natural insurgent sanctuary in the middle of the city.
+“Ratonnade” means “rat hunt”, from French racist slang for North
+Africans. The “Battle of Algiers” fought during 1957 by elements
+of the 10th Parachute Division under General Jacques Massu
+comprehensively dismantled the FLN infrastructure in the Casbah;
+however, in December 1960 a near-spontaneous uprising restored
+disorder to the city.
+27. Covert Movement
+Dead Zones: FLN Guerrillas may not March again if in same Wilaya.
+Cross-Wilaya coordination: In Redeploy Phase, Guerrillas may
+move from any spaces to any spaces with friendly Bases. All spaces
+must be in Algeria.
+FLN CAPABILITY
+Background: FLN guerrillas generally had freedom of movement,
+especially in populated areas—however, when there was no developed
+network of safe houses, trails and hideouts in an area, they were
+not able to make long distance moves easily. Poor communication
+and mistrust among Wilaya commanders was also a factor.
+28. Atrocities and Reprisals
+Executor of Event may place up to 2 Terror markers, placed after
+paying 1 Resource per marker, in any spaces in Algeria (even if
+Terror already present). Set these spaces to Neutral. –1 Commitment
+for each Terror marker placed (no matter who executed the Event).
+Background: Both sides were responsible for savage and grotesque
+atrocities during the war, and one violent incident would often spark
+a cycle of vicious action and reaction. While there were FLN-sponsored
+terrorist incidents in France, it was the ordinary people of
+Algeria (white, Arab and native) who paid disproportionately with
+their lives and limbs. As with most wars of the 20th century, the
+great majority of casualties in the war were civilian.
+29. The Call Up
+Bonjour M. Bidasse: Move any number of French Police from Out
+of Play to Available; subtract Commitment = 1/3 of total moved
+(round down).
+Effective Threats: Until Propaganda Round, Train places no more
+than 2 cubes per space.
+FLN MOMENTUM
+Background: “Bidasse” is French military slang for a conscript
+recruit or “draftie”. A more polite term is “les appeles” or “those
+who have been called”. Over 1.25 million Frenchmen served twoyear
+terms in Algeria, most of them as sector troops.
+Tip: This card can precede or follow the “Mobilization” Pivotal
+Event (#64) to make forces available for use in Algeria.
+30. Change in Tactics
+Remove any 1 Capability marker that is in effect. That Capability
+no longer applies.
+Background: Measures and countermeasures are an enduring aspect
+of insurgency, and so not all tactical or technical innovations
+maintain their battlefield impact for long.
+31. Intimidation
+Empty Threat: Until Propaganda Round, Terror places marker but
+does not set space to Neutral.
+GOVERNMENT MOMENTUM
+Persuasive donation drive: Add FLN Resources equal to the number
+indicated by marker in France Track.
+Background: The FLN was not shy about leaning on Algerian
+civilians, either in country or working in France, to support the
+movement materially or to refrain from doing anything that would
+help the French.
+32. Taleb the Bomb-maker
+FLN CAPABILITY
+Amateurs: Terror in City requires Activation of 2 Underground
+Guerrillas.
+Effective: Terror in City costs 0 Resources.
+Background: Abderrahmane Taleb (pictured) was a chemistry
+student who became an explosives expert for the FLN, and built
+many bombs for the insurgents during the Battle of Algiers. He was
+captured in June 1957 and executed in April 1958.
+A set of markers has been provided for you to place in the 3 City
+spaces as a reminder of the Capability’s effects.
+
+
+33. Overkill
+FLN CAPABILITY
+Let God sort ‘em out: Neutralize removes up to 4 pieces (still
+maximum 2 spaces).
+Revenge! After Assault, FLN may place 1 Guerrilla in any 1 of the
+Assault spaces from Available.
+Background: The French military forces enjoyed absolute superiority
+in firepower and were willing to use it, even though one clumsy
+application could undo months or years of good local relations.
+34. Elections
+Integrationist mandate: +1 Commitment or set 1 non-Terrorized
+Neutral space to Support.
+Voter Suppression: Set 1 Sector to Neutral.
+Background: From 1947 to 1956 the Algerian Assembly was established
+to serve as an elected governing body. Half of the members
+were elected by the 9 million Muslims in Algeria, and the other half
+were elected from among the 1.1 million non-Muslims. Because of
+this imbalance, and the way in which local elections were rigged to
+select members, Governor-General Lacoste dissolved the Assembly
+in 1956; it would be replaced later by a system of territorial
+assemblies.
+In 1958, for the first time, Muslims, including Muslim women,
+were included on the electoral rolls so they could also vote in the
+referendum on a new constitution for France in September, and then
+again in legislative elections in November. The FLN violently discouraged
+Muslim participation in the referendum and the elections
+since it diminished its role as spokesman for Algerian nationalism,
+and recognized it as a play for the sympathies of Muslims who
+were tired of the violence. As it turned out, de Gaulle got significant
+mandates in both France and Algeria for the new constitution and
+many “integrationist” candidates were elected.
+35. Napalm
+GOVERNMENT CAPABILITY
+Effective: Remove 1 Guerrilla per Assaulting cube in Mountain
+spaces.
+Scorch the Countryside: Each Assault space costs 3 Resources.
+Background: The French forces had complete air superiority
+during the war, and became very skilled in coordinating air-ground
+operations. Napalm proved very effective as an area weapon against
+insurgents hiding in caves and tunnels.
+A set of markers has been provided for you to place in the 19 Mountain
+spaces as a reminder of the “Effective Napalm” Capability’s
+effects.
+36. Assassination
+Crippling leadership loss: Remove 1 Guerrilla from any space to
+Casualties, –1d6 FLN Resources.
+Martyr: Add 1 Guerrilla in any space, from Available or Out of Play,
+and add +1d6 FLN Resources.
+Background: The illustration is of Zoulika Echaib, one of the few
+female FLN guerrilla leaders, shortly after her capture in Wilaya IV.
+She was executed in October 1957.
+37. Integration
+Expansion: Free Train in up to 2 selectable spaces.
+Same old prejudices: FLN may conduct free Subvert (Underground
+Guerrilla not required).
+Background: After 1956 the French Army started to integrate
+Muslim troops, both conscripts and volunteers, into the colonial
+units that had been manned mostly by pieds-noirs. This helped the
+problem of keeping these units up to strength, but racial and religious
+tensions and the obvious leadership challenges did not greatly
+improve unit quality.
+38. Economic Crisis in France
+Expatriate donations down: –1d6 FLN Resources
+Tight Military Budget: –1d6 Government Resources, –1 Commitment.
+
+Background: The price of both keeping the Algerian economy
+afloat and fighting the war there was extremely high, even as France
+was still trying to rebuild from the damage inflicted during WW II.
+39. Retreat into Djebel
+Harsh terrain: Select 2 Mountain spaces with no FLN Base, remove
+all Guerrillas there to Available.
+Caves: Flip all Guerrillas in Mountain spaces Underground.
+Background: Aside from the coastal plains, Algeria is a rough, dry
+and inhospitable country. The insurgents could always withdraw to
+safety in the inland mountain ranges but could not stay there for long.
+40. Strategic Movement
+Sea Lift: May redistribute up to 6
+cubes among any 3 coastal spaces
+for free.
+Aircraft Offline: Until Propaganda
+Round, lower number of Troop Lift
+spaces by 1.
+FLN MOMENTUM
+France deployed naval forces to the
+Mediterranean to interdict insurgent
+movement of men and supplies along
+the coastline. This also allowed them
+to shift forces at will.
+41. Egypt
+Get Out of Cairo: –3 FLN Resources.
+Arab Summit: +1d6 FLN Resources.
+Background: In late 1958 the FLN moved its headquarters from
+Cairo and established a “Provisional Government of Algeria” in
+Tunis as a government-in-exile. It was swiftly given diplomatic
+recognition as the legitimate government of Algeria by Morocco,
+Tunisia and other Arab and African states, as well as the Soviet
+Union and its satellite countries.
+42. Czech Arms Deal
+Intercepted: Subtract FLN Resources = twice the current Border
+Zone Status (subtract 2 if Morocco and Tunisia not yet independent)
+Arrived safely: +6 FLN Resources.
+Background: During 1954-55 the Soviet Union and Egypt negotiated
+the purchase of a large amount of Soviet weapons. President
+Nasser’s motivation was to court both the US and USSR to get
+more aid, while Premier Khrushchev wanted to gain influence in the 
+20 
+
+Middle East. The deal raised Arab-Israeli tensions and contributed
+to the Suez Crisis the following year. Meanwhile, for the insurgents
+in Algeria, obtaining arms and ammunition was a constant problem
+and the FLN received large amounts of now-surplus weapons (mostly
+WW II vintage small arms) from Egypt.
+43. Refugees
+Flee to the cities: Place a “+1 Pop” marker in any 2 Cities. Each
+such City now has 1 more Population.
+Flee the country: The stacking limit for Bases in Morocco and
+Tunisia (if independent) is increased to 3 (place 1 “Base” marker
+anywhere in each Country to show this).
+Background: Over 2 million Algerians were displaced from their
+villages during the war. As often happens in irregular wars, many
+moved to the cities and large numbers also left the country entirely.
+Once established in camps in Morocco and Tunisia, they became a
+source of recruits and support for the FLN as well as a burden on
+and threat to the stability of the governments of these two countries.
+44. Paranoia
+Rampant mistrust: Until Propaganda Round, FLN may not March
+into a Sector in a different Wilaya (may still cross International
+Borders).
+GOVERNMENT MOMENTUM
+Trust No One: Flip all Guerrillas Underground.
+Background: Even without the activities of the 5th Bureau and other
+“false flag” operations, the leaders of the different Wilayas found it
+difficult to communicate and plan well with each other, leading to
+a chronic lack of trust.
+45. Challe Plan
+Single HQ control: Until Propaganda Round, Police cubes are
+counted as Troops in all Assaults, not just City spaces. Police do
+not move in Sweep.
+GOVERNMENT MOMENTUM
+Worse Coordination: Until Propaganda Round, Troops and Police
+may not combine in Sweep or Assault (count one or the other, not
+both).
+FLN MOMENTUM
+Background: General Maurice Challe commanded the French Air
+Force in Algeria from 1955 to 1960. In 1959 he implemented the
+Challe Plan, which emphasized mobility, close cooperation and
+communication between the sector troops and the intervention units,
+and which was designed to keep the insurgent units moving and
+separated from their bases and sanctuaries. He was later involved
+in the 1961 putsch attempt (see card #66).
+46. Moghazni
+Rural self-defense: Until Propaganda Round, Government may
+Train in any Sector that is at Support and is Government-Controlled;
+however, may place only Algerian Police.
+GOVERNMENT MOMENTUM
+Force K: Replace up to all Algerian Police in any 1 Sector with an
+equal number of Guerrillas.
+Background: SAS officers (see card #13) would often raise small
+units of militia (25-50 men) in the villages in their areas of responsibility,
+as bodyguards or local protection forces.
+Force K was an example of a pseudo-guerrilla operation: the French
+intelligence service had created, equipped and trained a number of
+small units who would operate disguised as insurgents. In the case
+of Force K, the unit was entirely infiltrated with actual FLN troops,
+who played their role (occasionally presenting dead bodies of dissident
+nationalists as insurgents they had killed) but deserted with
+all their arms and equipment when the local FLN leader suspected
+the jig was up.
+47. Third Force
+Rally dissident insurgents: Replace up to 3 Guerrillas in 1 Sector
+with an equal number of Algerian Police.
+Private army mistreats civilians: Set any 1 Sector with Algerian
+Police in it to Opposition.
+Background: In 1957 Mohammed Bellounis, a former commander
+in the MNA, the FLN’s main rival insurgent movement, rallied to
+the French with the several hundred guerrillas under his command.
+This private army, called the Armee Nationale Populaire Algerienne,
+operated in Wilaya VI but treated the local population harshly in its
+efforts to find FLN guerrillas. It reached a strength of up to 3,500
+but melted away quickly after Bellounis became uncontrollable and
+was killed by the French in 1958.
+48. Ultras
+Freelancers: Remove up to 1 Guerrilla in each City space to Available.
+Army suppresses pied-noir hotheads: Remove 1-3 (1d6 halved,
+round up, Executor’s choice) Algerian cubes to Available.
+Background: Fearful of being abandoned by France and aware of
+their likely fate, the pied-noir community harboured a number of
+militant groups who were responsible for many acts of violence
+either to provoke or take revenge on the Muslim community. Later,
+members of these groups would join the OAS (see card #63) and
+resist the French government itself.
+49. Factional Plot
+Plot successful, mass confusion: Remove
+half of Guerrillas in Tunisia to
+Available (round down).
+Plot crushed, organizational realignment:
+May redistribute any number
+of Guerrillas in Morocco and Tunisia
+between these two Countries.
+No effect if Morocco and Tunisia are
+not yet independent.
+Background: Tunisia sheltered most of
+the “exterior army” of FLN guerrillas.
+Because of the effectiveness of the Morice Line in preventing infiltration
+in large numbers, and the ongoing peace talks that would
+end the war, thousands of FLN guerrillas and their leaders had time
+to sit and plot against their political leadership. Colonel Houari
+Boumedienne (pictured on the right), crushed a plot against the
+government-in-exile in 1959 and was rewarded for his efforts. He
+later held ultimate power when he deposed Ben Bella in a bloodless
+coup in 1965, and ruled Algeria until he died in 1978.
+50. Bleuite
+Self-purge: Activate all Guerrillas in 1 space in Algeria, roll 1d6,
+remove 2 Guerrillas to Casualties if roll ≤ number of Guerrillas.
+
+
+Blowback: Remove a total of 2 Algerian Police from any spaces
+to Available.
+Background: “Bleuite” (blueness) referred to the 5th Bureau’s practice
+of using “turned” insurgents, or false information implying that
+some insurgents were double agents (see card #7). A large part of the
+FLN infrastructure in Wilaya III was taken apart by the insurgents
+themselves in 1958-59 when the commander Amirouche (pictured
+on the right) was convinced, based on faked correspondence planted
+by the French, that there were traitors in his organization. He purged
+his own command network and, on the strength of false confessions
+extracted through torture, executed thousands of his own guerrillas.
+51. Stripey Hole
+Mass arbitrary imprisonment: Activate all Guerrillas in any Sector,
+set to Oppose.
+Prison break: Place 2 Guerrillas in any 1 Sector, from Available
+or Out Of Play.
+Background: As was typical of counterinsurgency methods of the
+time, the French would often simply arrest all males of a certain
+age in a given area, interrogate them, and keep them in prison for
+an arbitrary period. The thinking behind this is that some insurgents
+would be discovered, and the innocents would be frightened out of
+joining the insurgency.
+52. Cabinet Shuffle
+Ministers change chairs: Executor of Event shifts France Track
+marker 1 box left or right.
+Background: Until the events of May 1958 brought Charles de
+Gaulle back into power, the government of the Fourth Republic of
+France was unstable. Presidents and ministers came and went in a
+matter of weeks or months.
+53. Population Control
+ID cards and housing registers: Until Propaganda Round, FLN
+Marching into City Activates if more than 2 Government cubes
+present.
+GOVERNMENT MOMENTUM
+Collective punishment: Set any 1 City to Neutral.
+Background: Another practice of Colonel Roger Trinquier (see
+card #7) during the Battle of Algiers in 1957 was strict control of
+the movements of the civilian population. He reasoned that an accurate
+census, identity cards, and extensive information on where
+people live and work would be effective in countering infiltration
+by insurgents. He also instituted a system of “responsibles”, where a
+given person in a block or building had to answer for its inhabitants.
+These measures were widely resented by the Muslim population and
+“responsibles” were often targeted for assassination by insurgents.
+54. Operation 744
+Beat the bushes: Executor of Event moves up to 4 French Troops
+from any spaces to 1 Mountain Sector. Remove up to 2 FLN pieces
+(may be Underground, but Guerrillas before Bases) to Available if
+any are there.
+Background: Operation 744, executed in March 1956 in Wilaya
+III, was one of the first airmobile operations of the Algerian War.
+Conceived and executed by Colonel Marcel Bigeard (pictured on
+the card), then commanding the 3rd Colonial Parachute Regiment,
+the operation was a success. But it also often happened that French
+troops would wander the hills for weeks at a time, finding nothing.
+Tip: note that if the FLN executes this Event, French troops can be
+sent far away to do just that.
+55. Development
+Infrastructure: Place up to 2 Government Bases anywhere in Algeria
+from Available or Out of Play.
+Siphoned: FLN +3 Resources.
+Background: The French made sporadic efforts to address the
+economic and social situation of the Muslim population, but spent
+far more money and effort on the military aspects of the conflict.
+56. Hardened Attitudes
+Plague on both your houses: Until Propaganda Round:
+Government may not Train in a Sector without Support. FLN may
+not Extort in a Sector without a Base.
+DUAL MOMENTUM
+Background: As in most insurgencies, the majority of the Muslim
+population was caught in the middle and could not be convinced
+to overwhelmingly support one side or the other. Note that this
+Momentum card has effects on both players.
+57. Peace Talks
+Play nice, now: Until Propaganda Round: Government may not
+Assault. FLN may not Attack.
+DUAL MOMENTUM
+Background: The illustration is of the FLN delegation to the negotiations
+at Evian, France that began in May 1961. Almost a year later,
+in March 1962, the two sides declared a ceasefire that formally ended
+the war. Note that this Momentum card has effects on both players.
+58. Army in Waiting
+Save strength against the day: Half
+(round down) of Guerrillas in Tunisia
+(only) removed to Out of Play.
+Strengthen government-in-exile:
+Place 1 Base in Morocco or Tunisia
+if stacking permits.
+Background: No effect if Morocco
+and Tunisia are not yet independent.
+After the peace negotiations began
+in 1961, the FLN had little interest in
+expending its armed strength against the Morice Line, when it would
+be needed to assert the control of the new government over Algeria.
+59. Bandung Conference
+Waste of time: –1d6 FLN Resources.
+Pledges of support: +1d6 FLN Resources.
+Background: The April 1955 international conference of Afro-Asian
+nations at Bandung, Indonesia condemned both Soviet and Western
+colonialism, and contributed to the creation of the Non-Aligned
+Movement. A delegation of the FLN attended as a “guest” and
+obtained pledges of financial and material support from several
+countries.
+22 
+
+60. Soummam Conference
+Inter-Wilaya wrangling: Replace up to 2 FLN Bases in any spaces
+in Algeria with 1 Guerrilla each. No change in Commitment.
+Productive meeting: Place up to 2 FLN Bases in any spaces in
+Algeria for free.
+This conference of FLN political and military leaders took place in
+Wilaya III in August 1956. It was an important event in the development
+of the insurgency in that it worked out general agreement
+on military structure, tactics, and political issues.
+61. Morocco and Tunisia Independent
+FLN Pivotal Event—may play if Mobilization has been played.
+Morocco and Tunisia are now playable spaces. FLN may now enter
+them, Rally and Extort there, etc.. See 1.3.4, 5.1.8. Set Border Zone
+Status marker to “0”. From now on, Police in Border Sectors count
+as Troops in Assaults (3.2.4).
+Background: Legally Morocco and Tunisia were French protectorates,
+not colonies, but they were part of the empire nonetheless. In
+March 1956 both countries became independent and the French garrisons
+left, as they were needed in Algeria and in Europe. Throughout
+the rest of the war the FLN would treat these countries as sanctuaries,
+operating training and supply bases from their territory.
+62. Suez Crisis
+FLN Pivotal Event
+The Government player removes 1d6
+French Troops from map or Available
+(his choice). Set them aside. Both
+players subtract 6 Resources. The
+Troops return in the Redeploy Phase
+of the next Propaganda Round, to any
+Cities or spaces with friendly Bases
+(no cost in Commitment). The FLN
+player (only) will receive 6 Resources
+in the Resource Phase of the next
+Propaganda Round. See 5.1.9.
+Background: President Gamel Abdel Nasser’s government gave
+political and logistical support to the FLN in its early stages, which
+was a factor in France’s decision to join Great Britain in “Operation
+MUSKETEER”, the air and naval landings in the Suez Canal
+Zone undertaken in October-December 1956. The temporary cost
+in Resources to the FLN player reflects the interruption of arms and
+supplies coming to him from Egypt, but he will get them back after
+the invasion crisis has passed. For his part, the Government player
+left his Resources sitting on the beach at Port Said.
+63. OAS
+FLN Pivotal Event and DUAL
+CAPABILITY
+May play if Recall de Gaulle is in
+play. Cancelled if Recall de Gaulle
+is cancelled. See 5.1.7, 5.3.1.
+Either player may use this Capability
+any time in place of any Special
+Activity. Place 1 Terror marker in
+any non-Terrorized Populated space
+in Algeria (set space to Neutral); -
+Commitment = Population Value of
+space; - FLN Resources = twice the
+Population Value of space.
+Background: The Organization de l’ Armee Secrete (OAS) was
+formed at the end of 1960 by right-wing military officers and members
+of “ultra” pied-noir groups. For the final two years of the war
+the OAS was continuously active in both Algeria and France. They
+carried out selective assassinations and bombings to either silence
+people and organizations seeking progress in the peace negotiations,
+and/or to provoke violent reactions from the FLN to derail these same
+negotiations. Their actions in France, including several attempts to
+kill de Gaulle, brought them into conflict with the French security
+agencies and further alienated the French civilian population.
+The cost in Commitment and FLN Resources reflects the effects of
+one organization provoking the other, and the reflexive retaliation
+that ensues. Note rule 1.8: If a player does not have sufficient Resources
+or Commitment to pay for a given action or choice, they
+may not perform it. However, if required to lose Resources or Commitment
+beyond 0 (zero) because of the other player’s actions, they
+may not have a “deficit” inflicted on them—the index is lowered to
+0 and the excess is ignored.
+64. Mobilization
+Government Pivotal Event
+May play if Oppose + Bases ≥ 15.
+Move any number of pieces from Out of Play to Available, up to
+the one-half the current Commitment level (round up), at no cost in
+Commitment. Government may now Resettle Pop 1 Sectors (4.2.1).
+Background: France was unable and unwilling to commit large
+numbers of troops to Algeria at the beginning of the violence in late
+1954, as they were still trying to extricate themselves from Indochina.
+Also, the FLN revolt was treated at first as criminal activity
+to be dealt with by the police. But by the fall of 1955 the growing
+influence of the FLN, and the frequency and violence of insurgent
+operations, led the French government to mobilize new drafts of
+reservists for service in Algeria. In the end, over 1.25 million conscripts
+from metropolitan France served two-year terms in Algeria,
+most of them as “sector troops”.
+65. Recall De Gaulle
+Government Pivotal Event. May
+play if Coup d’Etat has been played.
+See 5.1.5, 5.1.7., 6.2.1. Allows play
+of OAS Pivotal Event. Government
+may now also Train in any Pop 1+
+space with Government control
+and Troops and Police (Pacify still
+only 1 space per card and 1 shift per
+Pacify). Each Resource Phase: Gov’t
+Resources increased by Commitment
+and total Support; French Casualties
+do not affect Commitment. This card
+remains in effect for the rest of the game unless cancelled by Coup
+d’Etat Pivotal Event.
+Background: To conclude a complex chain of events in the spring
+of 1958, including a revolt in Algiers by pieds-noirs, a conspiracy
+of senior generals, a threatened coup d’etat in Paris and the collapse
+of the Fourth Republic, Charles de Gaulle re-emerged from retirement
+and became Prime Minister of France in June 1958. De Gaulle
+was interested in pursuing some form of compromise end-state for
+Algeria between colony and total independence that would respect
+the wishes of the Muslim majority and protect both the pieds-noirs, 
+many of whose families had lived in Algeria for over a century, and
+French commercial and strategic interests. This made him enemies.
+66. Coup d’etat
+Government Pivotal Event. May play once per Campaign; retain
+this card. See 5.1.5.
+Each player rolls 1d6.
+If Government rolls higher: Recall de Gaulle and/or OAS Events
+cancelled if in play; add Commitment = lower of the 2 die rolls; add
+Resources = sum of the 2 rolls.
+If FLN rolls higher: choice of: remove Troops = lower of the 2 die
+rolls from map or Available to Out of Play (FLN may choose, no
+change in Commitment); OR subtract Commitment = lower of the
+2 die rolls.
+If tied, no change (but card has been played).
+Background: There were three major instances during the Algerian
+War where the French Army intervened in politics. As frustration
+grew in 1957-58, elements in the Army leadership and pied-noir
+community decided that Charles de Gaulle would be the man to
+prosecute the war as vigorously as they wanted. “Operation Resurrection”,
+a military revolt in May 1958 featuring an airborne landing
+and intervention by armored units in Paris, got as far as the bloodless
+seizure of Corsica by several French paratroop regiments before the
+government collapsed and de Gaulle assumed power. As de Gaulle
+attempted to engage the FLN in peace negotiations throughout 1960,
+the pieds-noirs and the elite troops of the intervention forces, particularly
+the paratroop regiments, felt betrayed by the man they had
+placed in power to help them win the war. In January 1960 the “Week
+of the Barricades” began as a pied-noir revolt in Algiers; the revolt
+was supposed to spread to the military and Paris itself but de Gaulle
+defused the situation through his personal influence. By the end of
+1960 some leaders of the revolt formed the OAS, which would in
+the following years make multiple attempts to assassinate de Gaulle.
+In April 1961 the “General’s Putsch” seized power in Algiers, and
+it was feared that there would be a military-wide revolt. Again, de
+Gaulle saved the situation by appearing on radio and television to
+appeal to the French nation; the steam
+went out of the rebellion and several
+elite units were disbanded.

@@ -1,0 +1,1878 @@
+1. Gulf of Tonkin UNAV 1964
+Incident and resolution: US free Air Strikes, then moves 6 US pieces
+from out-of-play to any Cities.
+Congressional regrets: Aid –1 per Casualty. All Casualties out of
+play.
+Tips. The free Air Strike otherwise follows the usual rule (4.2.3), so
+it can be in any spaces with US/ARVN pieces, it shifts Support/Opposition,
+and it can Degrade the Trail. “Pieces” include Bases (1.4).
+Background. On August 2, 1964 the USS Maddox was engaged
+by elements of North Vietnam’s 135th Torpedo squadron. Two
+days later a second incident was reported, but based on declassified
+reports there was likely no actual engagement. These two reported
+encounters between North Vietnam and the USN were the basis for
+the Gulf of Tonkin resolution that gave the Johnson administration
+legal justification for military operations in Vietnam.
+2. Kissinger UNAV 1968
+Operation Menu: Remove a die roll of Insurgent pieces total from
+Cambodia and Laos.
+“Secret bombing” revealed: NVA places 2 pieces in Cambodia. US
+moves any 2 US Troops to out of play. Aid –6.
+Tip. “Pieces” include unTunneled Bases (1.4, 5.1.1). “Any Troops”
+here can include Casualties, Available, or from the map.
+Background. Henry Kissinger was National Security Advisor
+throughout the Nixon administration. He was and remains a brilliant
+strategist who helped create the conditions that allowed the US to
+withdraw from Vietnam. The Nixon administration’s expansion of
+the war into Cambodia and Laos to cut the Trail included controversial
+incursions against and bombing of NVA redoubts in Cambodia.
+They also led to the disastrous Lam Son 719 offensive (Event 74).
+3. Peace Talks UNAV 1968
+Haiphong mined: NVA Resources –9. Linebacker II allowed when
+Support+Available >25 (mark).
+Bombing halt: NVA Resources +9. If Trail 0-2, Improve to 3.
+Tip. For the unshaded effect, place the “Peace Talks” marker on the
+“Linebacker II” US Pivotal Event card as a reminder of its loosened
+precondition.
+Background. The Nixon administration used a series of carrots
+(bombing halts) and sticks (mining/bombing) to bring Hanoi to the
+negotiating table. It would appear that the mining of Haiphong – a
+component of the Linebacker II bombing campaign (Pivotal Event
+121) – accelerated the peace talks.
+
+
+4. Top Gun UNAV 1968
+US CAPABILITY
+Air combat maneuver: Cancel shaded MiGs. Air Strikes Degrade
+Trail 2 boxes.
+Mediocre tactics: Air Strike Degrades Trail only on die roll of 4-6.
+Tips. The unshaded “Top Gun” Capability can either block shaded
+“MiGs” from being executed or remove it once it has been executed.
+The shaded means that US each Air Strike first announces whether
+attempting Degrade of Trail, then rolls a die to determine effect.
+Background. Analysis of air combat over Vietnam proved that the
+US had lost its tactical edge to the enemy’s MiGs (Event 33). This
+was due to a misguided overreliance on radar air-to-air missile
+technology. The US Navy’s Top Gun program began the process
+of developing and retraining US airmen in dogfighting tactics that
+turned the situation around.
+5. Wild Weasels UNAV 1965
+Air defense suppression: Remove shaded SA-2s or, if no shaded
+SA-2s, Degrade Trail 2 boxes and NVA Resources –9.
+Complex strike packages: Until Coup, Air Strike only Degrades
+Trail if no spaces selected.
+MOMENTUM
+Tips. Unshaded “Wild Weasels” can remove shaded “SA-2s” only at
+the moment that “Wild Weasels” is executed. Shaded effect means
+that US has to choose with each Air Strike Special Activity whether
+to remove enemy pieces or Degrade the Trail, not both.
+Background. Wild Weasels were the nickname given to any aircraft
+assigned to the electronic countermeasures (ECM) mission.
+ECM missions targeted enemy radars and surface-to-air missile
+installations.
+6. Aces UNVA 1965
+Robin Olds ambushes MiGs: Free Air Strike any 1 space outside the
+South, degrading Trail 2 boxes.
+MiG ace “Colonel Tomb”: 2 Available US Troops to Casualties.
+Improve Trail by 2 boxes.
+Tips. “Any 1 space outside the South” means any 1 North Vietnam,
+Laos, or Cambodia Province, even if no US or ARVN piece there.
+Degrade of the Trail is 2 boxes total, instead of the usual.
+Background. This card pays homage to the many airmen who
+fought in the skies over Vietnam. Robin Olds is an iconic American
+fighter ace who fought in WWII and Vietnam. Colonel Tombs on
+the other hand is probably not a real person, but a propaganda icon.
+He is representative of North Vietnam’s better-trained pilots who
+in many cases were foreign “volunteers”.
+7. ADSID UNVA 1965
+Air-delivered seismic intrusion detector: Through Coup, –6 NVA
+Resources at any Trail# change.
+MOMENTUM
+Dubious technology: Improve Trail by 1 box and to a minimum of
+2. ARVN Resources –9.
+Tip. The unshaded text drops NVA Resources upon both Improving
+and Degrading the Trail via any means (player action, Event, or
+Coup Round Sequence).
+Background. ADSIDs represent the beginning of the electronic
+sensor revolution that was in its infancy during the conflict. The idea
+was to create an electronic grid that would queue US airpower to
+attack convoys as they moved along the Ho Chi Minh Trail. While
+this strategy had some successes this technology suffered from low
+reliability and spoofing by the NVA.
+8. Arc Light UNVA 1965
+US CAPABILITY
+Guided B-52 tactical bombing: 1 space each Air Strike may be a
+Province without COIN pieces.
+Moonscape: Air Strike spaces removing >1 piece shift 2 levels
+toward Active Opposition.
+Tip. “Provinces” include spaces in North Vietnam, Laos, and Cambodia
+(1.3.5). A Base is a “piece” (1.4).
+Background. Arc Light was the term for the use of US strategic
+bombers (B-52s) in an interdiction and ground support role. Arc
+Lights were much feared by the NVA and VC, as the strike would
+often occur without any warning due to the high altitude of the bomb
+release. Even today when you look at topographic maps of Vietnam
+the distinct pattern of these strikes can sometimes still be discerned.
+9. Psychedelic Cookie UNVA 1968
+9th Division: US moves up to 3 US Troops from out of play to
+Available or South Vietnam, or from the map to Available.
+Worn out formation: US takes 3 of its Troops from the map out of play.
+Tip. Adjust “Support+Available” score marker when US Troops or
+Bases move in or out of Available (7.2).
+Background. The 9th Infantry Division’s Vietnam-era nickname
+was the “Psychedelic Cookie” for its colorful blue-and-red circular
+patch – a far cry from its WWII name of the “Old Reliables”. It
+operated in the Mekong Delta in close coordination with Task Force
+116 (Event 25) and the ARVN 7th Division.
+10. Rolling Thunder UNVA 1965
+Sustained bombing: Degrade Trail 2 boxes. –9 NVA Resources.
+NVA Ineligible through next card.
+Assets to restricted strategic air campaign: –5 ARVN Resources.
+No Air Strike until Coup.
+MOMENTUM
+Tip. The drop in ARVN Resources is instant and once; the ban on
+Air Strikes lasts until the next Coup Round (5.4).
+Background. This was the code name for the US bombing campaign
+against North Vietnam’s infrastructure and supply routes. The
+purpose of the campaign was to convince the North to negotiate. Its
+premise was that the bombing missions would escalate with periodic
+pauses based on the perception of Hanoi’s responses. It began
+in March of 1965 and ran until November of 1968, having failed
+not only to force negotiations but to reverse the growing Northern
+infiltration of the South.
+11. Abrams UANV 1968
+US CAPABILITY
+Counter-logistics: 1 US Assault space may remove 1 enemy
+non‑Tunnel Base first not last.
+No more big-unit war: US may select max 2 spaces per Assault.
+Tip. The unshaded text changes US Assault only by removing the
+“Bases last” restriction for 1 Base in 1 space – the total number of
+pieces to be removed and other restrictions (3.2.4) remain the same.
+
+
+Background. Creighton Abrams was the third commander of
+MACV. He was known for his innovative tactics and charted a
+very different course for the US Army in Vietnam. Abrams was the
+commander over the last portion of the period covered in the game.
+he was instrumental in implementing Nixon’s Vietnamization program
+(Pivotal Event 123) and pursued a counter-logistical strategy
+credited with choking off indigenously-based VC strength by the
+time of US military withdrawal.
+12. Capt Buck Adams UANV 1968
+Strategic reconnaissance: Outside the South, flip all Insurgents
+Active and remove 1 NVA Base.
+SR-71 pilot must outrun SA-2s: Place 1 NVA Base at NVA Control
+outside the South and flip any 3 NVA Guerrillas Underground.
+Tip. “At NVA Control outside the South” means place 1 available
+NVA Base into any North Vietnam, Laos, or Cambodia Province
+that already has NVA Control and where there are not already 2
+Bases (1.3.5, 1.4.2, 5.1.1).
+Background. The SR-71 Blackbird was a revolutionary aircraft
+design on the bleeding edge of technology. Blackbirds supplied
+strategic reconnaissance of North Vietnam during the last third of the
+war. While the Blackbird is renowned for its ability to fly above and
+outrun any enemy defenses, on occasion SR-71s were engaged by
+the North’s high-altitude SA-2s (Event 34). On one such occasion,
+USAF Captain Buck Adams (now General, retired) had finished his
+first pass over the country and on his second pass was engaged by
+two SA-2 missiles that he successfully outran.
+13. Cobras UANV 1968
+US CAPABILITY
+Gunships: 2 US/ARVN Sweep spaces each remove 1 Active unTunneled
+enemy (Troops first, Bases last).
+Close air support losses: Each US Assault space, 1 US Troop to
+Casualties on a die roll of 1-3.
+Tip. An added ARVN Assault in a US Assault space would have no
+added effect on US Casualties.
+Background. The AH-1 Cobra was based on close air support requirements
+for a helicopter gunship to replace the modified UH-1
+Huey’s serving in that role. It featured a tandem pilot-gunner arrangement
+to give it a narrow silhouette and was armed with a cannon,
+rockets, and later in the war TOW anti-tank missiles.
+14. M-48 Patton UANV 1965
+US CAPABILITY
+Armored Punch: 2 non-Lowland US Assault spaces each remove
+2 extra enemy pieces.
+RPGs: After US/ARVN Patrol, NVA on a die roll of 1-3 removes
+1 cube that moved (US to Casualties).
+Tip. The unshaded text changes US Assault only by adding to the
+number of pieces to be removed from some spaces – restrictions
+on which pieces may be removed (3.2.4) remain the same. “US to
+Casualties” means that any US pieces removed go to the Casualties
+box, while ARVN pieces removed go to ARVN Available Forces as
+usual (1.4.1).
+Background. In the early 1960s, the M-48 Patton was the US Army’s
+Main Battle Tank, followed in the early ‘70s by the M-60. Armor
+operations in Vietnam were always terrain challenged, but in the
+right tactical environment were very effective.
+15. Medevac UANV 1964
+Dustoff: This Commitment, all Troop Casualties Available (mark).
+MOMENTUM
+Hueys diverted: Executing Faction remains Eligible. Until Coup,
+no Air Lift (mark).
+MOMENTUM
+Tip. Place the “Medevac” marker on the corresponding side onto the
+set-aside Momentum card as a reminder of which text was executed.
+For unshaded, upon the coming Commitment Phase, immediately
+move all US Troops that are in the Casualties box to Available;
+no Troops go out of play; Base Casualties still do. The Casualties
+will already have reduced Aid in the preceding Resources Phase
+(6.2.5, 6.5). If unshaded Event 73 “Great Society” occurs while
+unshaded “Medevac” is in effect, “Medevac” affects the immediate
+Commitment Phase and then stays in effect to affect the coming
+Coup Round’s Commitment Phase as well. Note also that unshaded
+“Medevac” played during the final campaign would have no effect
+unless unshaded “Great Society” subsequently occurs, because
+there otherwise will be no further Commitment Phase (6.4.5, 6.5).
+Background. With its origins during the Burma campaign in WWII,
+the US Medevac capability enabled the timely evacuation of casualties
+from combat directly to modern medical treatment.
+16. Blowtorch Komer UAVN 1968
+Pacification czar: Aid +10. This Support phase, Pacify costs 1
+Resource per step or Terror.
+MOMENTUM
+Brusque manager: Aid –10. Shift a space with Troops and Police 1
+level toward Active Opposition.
+Tip. Addition of Aid is instant; the reduced cost to Pacify applies
+in the next Coup Round only (5.4).
+Background. Robert Komer had a direct management style that
+endeared him to LBJ but led to his nickname of Blowtorch Bob.
+He was the head of the CORDS component of MACV (Event 19)
+and its controversial Phoenix program (Event 27).
+17. Claymores UAVN 1964
+Perimeter: Stay Eligible. Until
+Coup, no Ambush; remove 1
+Guerrilla each Marching group
+that Activates.
+MOMENTUM
+Infiltrators turn mines around:
+Remove 1 COIN Base and
+1 Underground Insurgent from
+a space with both (US to Casualties).
+Tip. Eligibility for the executing
+Faction applies instantly
+and once; the effects on Ambush
+and March last until the
+next Coup Round (5.4).
+Background. The U.S. M18 Claymore directional mine was an iconic
+and effective anti-personnel device used during most of the Vietnam
+war. The Claymore throws steel balls out to about 100 meters intended
+to disable or kill enemy infantry. The movie Platoon has a night engagement
+scene that shows the employment and use of this weapon.
+
+
+18. Combined Action Platoons UAVN 1965
+US CAPABILITY
+Hamlet defense: US Training places or relocates an added Police
+into any 1 space with US Troops.
+Passive posture: US may select max 2 spaces per Sweep.
+Tip. For the unshaded Capability, just 1 Police places or relocates per
+Training Operation, regardless of how many spaces the US Trains in.
+Background. The CAP program was a Marine Corps initiative that
+married up a Marine rifle squad with a local defense unit to protect
+hamlets from VC infiltration and coercion. They were viewed as
+one of the best counterinsurgency responses developed by the US
+during the war.
+19. CORDS UAVN 1968
+US CAPABILITY
+Civil Operations and Revolutionary Development Support: US
+Training may Pacify in 2 selected spaces.
+Civilian programs subordinated to military: US Training may Pacify
+only to Passive Support.
+Tip. Pacification costs per Terror marker or level remain the same.
+Background. Civil Operations and Revolutionary Development
+Support was a civilian-run component under MACV, formed in 1967
+and run by Bob Komer (Event 16) then Bill Colby. It consolidated an
+array of programs to meet rural economic and security needs of the
+peasants, squeeze the VC infrastructure, dry up VC recruiting, and
+thereby pacify the countryside. The controversial Phoenix program
+(Event 27) was among its many elements.
+20. Laser Guided Bombs UAVN 1968
+US CAPABILITY
+Dawn of precision strike: Air Strike does not shift Support/Opposition
+in spaces where only 1 piece removed.
+Camouflage: Air Strike removes no more than 4 pieces.
+Tip. A Base is a “piece” (1.4).
+Background. The skies over Vietnam saw the dawn of precision
+guided warfare. The destruction of the famous and hard-to-hit Thanh
+Hoa Bridge (Event 35) was the first prominently noted success for
+this new ordnance.
+21. Americal UVNA 1968
+23rd Division: US moves up to 2 US Troops each from the map and
+out of play to any 1 space or Available.
+US divisions “clean out” NLF: In 1 or 2 Provinces with US Troops,
+remove 1 VC piece to set to Active Opposition.
+Tips. For the shaded Event, the VC “piece” could be a Guerrilla or
+an unTunneled Base (1.4, 5.1.1). If there are Provinces that have US
+Troops, VC, and could be set (changed) to Active Opposition, such
+Provinces would have to be chosen first. Note that COIN Factions
+might advantageously use the shaded text (5.2)!
+Background. The Americal Division was created in 1942 in New
+Caledonia in order to amalgamate several regiments shed by reserve
+divisions in a reorganization. In Vietnam, the Americal (23rd Infantry
+Division) was reactivated by joining a brigade of the 25th and
+101st Divisions plus the independent 196th Brigade. Americal in
+1969 participated with several other divisions in General Abrams’
+counter-logistical sweeps (Event 11) as part of the Accelerated
+Pacification Campaign (Event 96) that up-ended NLF control of
+several regions but also defoliated and destroyed crops, forcing the
+peasants there to leave the land.
+22. Da Nang UVNA 1965
+US Marines arrive: US places up to 6 Troops in Da Nang, up to 3
+from out of play.
+VC fire closes air base: Remove all Support within 1 space of Da
+Nang. No Air Strike until Coup.
+MOMENTUM
+Tip. Removal of Support is instant and once; the ban on Air Strikes
+lasts until the next Coup Round (5.4).
+Background. Da Nang was used as a US support base starting in
+1957 and eventually grew to rival Tan San Nhut airbase in importance.
+Its position within 85 miles of the DMZ made it an ideal
+location from which to launch strikes into I Corps and into the
+North. The US Marine Corps landed in Da Nang in 1965 initially to
+guard the airbase, but it later became one of the US major combat
+operations hubs.
+23. Operation Attleboro UVNA 1965
+Stab at Iron Triangle: US free Air Lifts into, Sweeps in, then Assaults
+a space with a Tunnel—removing Tunneled Bases as if no Tunnel.
+Heavy casualties, few results: Select a Tunnel space—remove a die
+roll of US Troops within 1 space of it to Casualties.
+Tip. This is one of just a few Events that can force removal of Tunneled
+Bases (5.1.1). The Sweep could occur even during Monsoon.
+Free US Assault can add an ARVN Assault at cost 0 (3.2.4).
+Background. Operation Attleboro was a Search and Destroy operation
+that ran from September through November of 1966. The
+first phase saw the 196th Brigade with elements of the 1st Infantry
+Division engage the 9th VC Division in a major battle in the Iron
+Triangle. Eventually the operation overran a VC base camp with the
+capture and destruction of a large cache of supplies, but the province
+remained under VC control.
+24. Operation Starlite UVNA 1965
+VC caught off guard: Remove all VC from a coastal Province with
+or adjacent to US Troops.
+Slipped away: In up to 3 Provinces, flip all VC Guerrillas Underground.
+Stay Eligible.
+Tip. “Coastal” Provinces are those touching or across a Highway
+from ocean (1.3.7). For the shaded text, the Faction executing the
+Event stays Eligible.
+Background. Operation Starlite (August 18, 1965) was the first
+USMC combat operation of the Vietnam War. The Marines engaged
+the 1st VC Regiment in the ARVN I Corps area in a tactical victory,
+but an operational defeat, as the VC unit successfully disengaged.
+25. TF-116 Riverines UVNA 1965
+Delta boats: Remove all NVA/VC from Mekong LoCs. US or ARVN
+free Sweep into/in then free Assault each Lowland touching Mekong.
+VC river fortifications: Place 2 VC Guerrillas per Mekong LoC
+space, then Sabotage each that has more VC than COIN.
+Tips. Whichever Faction executed the unshaded text would choose
+either US or ARVN to Sweep and Assault, and that Sweeping/Assaulting
+Faction would choose how (5.1). The Sweep could occur
+even during Monsoon. Free US Assault can add an ARVN Assault 
+
+
+at cost 0 (3.2.4). “Mekong” means any of the 3 river LoC spaces
+touching Can Tho. “COIN” means either US or ARVN pieces.
+Background. The US Navy operated a large group of riverine craft
+in the Mekong Delta under the command of Task Force 116. The
+concept was to join an Infantry Brigade (2nd Brigade of the 9th
+Division) with “brown water” naval craft to interdict and engage
+enemy forces in the waterways of the Delta. One of its more famous
+operations was Game Warden in December of 1965.
+26. LRRP UVAN 1964
+Long Range Recon Patrol: US places 3 Irregulars outside the South
+then free Air Strikes, removing Bases first.
+Patrols ambushed: 3 Irregulars map to Casualties. Shift each space
+they were in 1 level toward Active Opposition.
+Tips. “Irregulars” are US Special Forces pieces, not ARVN Rangers.
+“Outside the South” means any Laos or Cambodia Provinces.
+The free Air Strike otherwise follows the usual rule (4.2.3) so can
+be in any spaces with US/ARVN pieces (not only in those that just
+received Irregulars or outside the South), shifts Support/Opposition,
+and can Degrade the Trail.
+Background. Veteran or specially trained forces often augmented
+with Vietnamese irregulars usually carried out Long Range Reconnaissance
+Patrols into enemy territory. The Studies and Observation
+Group or SOG was the ground element of the US air war against
+the Ho Chi Minh Trail as illustrated by Project Tiger that spotted for
+and marked enemy trail activity for prosecution by US air assets.
+27. Phoenix Program UVAN 1968
+Cadres assassinated: Remove any 3 VC pieces total from any COIN
+Control spaces.
+Misdirected: Add a Terror marker to any 2 spaces outside Saigon
+with COIN Control and VC. Set them to Active Opposition.
+Tip. “Pieces” include unTunneled Bases (1.4, 5.1.1).
+Background. The Phoenix Program used targeted assassination of
+VC leadership and support in the rural countryside. The Communists
+credited Phoenix with substantial destruction of their infrastructure.
+One of the weaknesses of the program from the counterinsurgent
+perspective, however, was that local vendettas often resulted in
+innocent civilians being identified as insurgents. CORDS Director
+Colby estimated that it accounted for over 20,000 casualties, some
+of ambiguous guilt.
+28. Search and Destroy UVAN 1965
+US CAPABILITY
+Mobile counter-guerrilla ops: Each US Assault space may remove
+1 Underground Guerrilla.
+Villagers in the crossfire: Each US and ARVN Assault Province
+shifts by 1 level toward Active Opposition.
+Tips. The unshaded effect changes US Assault only by allowing
+inclusion of 1 Underground Guerrilla per space among the pieces
+to be removed (3.2.4) – it therefore adds to the total removed only
+if that number would otherwise be 0. The shaded effect applies to
+Provinces only, not Cities, and to US-only, ARVN-only, and US
+plus ARVN Assaults.
+Background. This term characterized a class of counterinsurgency
+operations. The concept was to have a series of small forces find and
+fix enemy guerrilla forces then use reinforcements, artillery, and air
+strikes to eliminate the enemy formation. The impact of this doctrine
+was mixed as it often created more guerrillas than it eliminated.
+29. Tribesmen UVAN 1964
+Minority fighters: Remove any 4 Insurgent pieces total from spaces
+with Irregulars.
+Tribal secession: Replace all Irregulars with VC Guerrillas. 1 Neutral
+Highland to Active Opposition. -3 Patronage.
+Tips. “Pieces” include unTunneled Bases (1.4, 5.1.1). “Insurgent”
+means NVA or VC. “Irregulars” are US Special Forces pieces, not
+ARVN Rangers. Replace Irregulars that are on the map (only), with
+Guerrillas 1 for 1 in place (Irregulars to Available). “1 Highland”
+means 1 Highland space.
+Background. Vietnam is a polyglot of minorities to include several
+such as the Montagnards who still operated an ancient hunter-gatherer
+economy. These tribesmen were often at odds with their urban
+countrymen but fought as irregulars for both sides.
+30. USS New Jersey UVAN 1968
+Fire support: US or ARVN free Air Strikes any 1-3 coastal spaces,
+removing up to 6 pieces per space (no effect on Trail).
+Frightening free fire: Shift 2 coastal Provinces with US Troops each
+2 levels toward Active Opposition.
+Tips. “Coastal” means Provinces, Cities, and LoCs touching ocean,
+including North Vietnam, as well as Provinces across a Highway
+from ocean (1.3.7). For the unshaded text, “any 1-3 spaces” means
+that the spaces do not need to have US or ARVN pieces in them. The
+executing Faction chooses US or ARVN to strike, and that Faction
+decides the details; it must strike at least 1 space. The Air Strikes
+have all other usual restrictions and effects in the spaces, including
+removing Active pieces only and Bases last, and shifting Support/
+Opposition (4.2.3).
+Background. Motivated by high aircraft losses, Secretary McNamara
+authorized the re-commissioning of BB-62, the USS New
+Jersey, to augment the air war along the extensive Vietnam coastline.
+Destroyers first bombarded VC targets in central South Vietnam in
+May 1965, and New Jersey later joined them as part of Task Group
+70.8, climaxing with some 22 ships on the gun line during the 1968
+Tet Offensive (Pivotal Event 124).
+31. AAA NUAV 1964
+NVA CAPABILITY
+Assets to protection from close air attack: Rally that Improves Trail
+may select 1 space only.
+Point air defense of logistic hubs: Air Strike does not Degrade Trail
+below 2.
+Tip. For the unshaded Capability, the NVA may still Rally in more
+than 1 space, but, if they do so, then that Rally Operation may not
+also Improve the Trail.
+Background. The Gulf of Tonkin incident (Event 1) spurred Chinese
+and Soviet aid to North Vietnam with various forms of military
+hardware. One of the key AAA (anti-aircraft artillery) assets was
+the 57mm AZP S-60 with a range of 1,500 meters. While highly
+inaccurate, when fired in volume against fighter aircraft making
+low-level bombing runs or against low-flying helicopters, its heavy
+caliber round was very lethal.
+
+
+32. Long Range Guns NUAV 1968
+NVA CAPABILITY
+US M-107 175mm counterbattery: NVA Bombard max 1 space.
+Soviet M-46 130mm artillery: NVA Bombard max 3 spaces.
+Tip. Other restrictions on Bombard apply normally (4.4.2).
+Background. As the war progressed, the NVA regulars were supplied
+with an array of state-of-the-art artillery by their allies (Event 49).
+The Soviet M-46 was originally designed as a rifled naval gun and
+could out-range any US artillery then in theater. In response, the US
+deployed the M-175 to regain artillery range parity.
+33. MiGs NUAV 1968
+NVA CAPABILITY
+Expensive interceptors: NVA Resources –6 each Reset.
+High US loss ratio: Unless unshaded Top Gun, whenever Air Strike
+Degrades Trail, US removes 1 Available Troop to Casualties.
+Tip. The unshaded “Top Gun” Capability can either block shaded
+“MiGs” from being executed or remove it once it has been executed.
+Background. China and the USSR supplied North Vietnam with
+limited numbers of jet aircraft such as the MiG-15, MiG-17, MiG-19,
+and MiG-21, sufficiently advanced to challenge US jets in dogfights
+over the North. It is currently believed that “foreign volunteers” flew
+some of these MiGs.
+34. SA-2s NUAV 1965
+NVA CAPABILITY
+Fiddly Soviet gear: When Air Strike Degrades Trail, US removes
+1 NVA piece outside the South.
+SAMs guard infrastructure: NVA Rally Improves Trail 2 boxes not
+1 (unshaded Wild Weasels remove).
+Tips. “Piece” may include an unTunneled Base (1.4, 5.1.1). “Outside
+the South” includes North Vietnam (1.3.5). Unshaded “Wild
+Weasels” (Event card #5) can remove shaded “SA-2s” only at the
+moment that “Wild Weasels” is executed.
+Background. The Soviet S-75 Dvina (NATO codename SA-2
+Guideline) is a high-altitude surface-to-air missile that burst onto the
+world stage when it successfully shot down a U-2 reconnaissance
+plane piloted by Gary Powers. During the Vietnam War, the SA-2
+was deployed mostly to defend the key Hanoi-Haiphong region.
+35. Thanh Hoa NUAV 1968
+Bridge busters: US free Air Strikes, degrading Trail by 3 boxes.
+NVA Resources –6.
+Stubborn targets: Improve Trail by 1 box. Then add three times Trail
+value to NVA Resources.
+Tip. The Air Strike Degrades the Trail 3 boxes instead of the usual
+amount (“4” would go to “1”).
+Background. The Thanh Hoa Bridge spanned the Song Ma river
+and was the northern gateway to the Ho Chi Minh trail. As a consequence,
+it was always a high priority US target. It received 873 air
+sorties and had extensive air defenses that accounted for the loss of
+104 aircraft shot down in its vicinity. It was finally destroyed beyond
+repair in 1972 with early-generation laser-guided bombs (Event 20)
+and taken off the target list.
+36. Hamburger Hill NUVA 1968
+A Shau Valley campaign: Move 4 US Troops from any spaces to
+a Highland. Remove 1 NVA or VC Base there, even if Tunneled.
+Prepared defenses: Place a Tunnel on an NVA or VC Highland Base.
+3 US Troops there to Casualties.
+Tips. “A Highland” means 1 Highland space. “Highland Base”
+means a Base in a Highland space. This is one of just a few Events
+that can force removal of Tunneled Bases (5.1.1).
+Background. Hill 937 (Ap Bia Mountain) on the Laotian border
+was taken in a bloody assault by the 101st Infantry division in May
+1969. The high casualties incurred for a piece of terrain that was soon
+abandoned and thus appeared of little value caused a public backlash.
+37. Khe Sanh NUVA 1968
+Northern casualties: Select a US Base with US Troops. Remove 10
+NVA Troops within 1 space of it.
+US Marines pinned: Up to 3 US Troops in 1 space with NVA to
+Casualties. US Ineligible through next card.
+Tip. The 10 total NVA Troops removed may come from more than
+1 adjacent space, including the same space as the US pieces.
+Background. The US base at Khe Sanh near the DMZ sat astride
+Route 9, the northern most egress route of the Ho Chi Minh Trail.
+From January 21st to early March 1968, the base was repeatedly
+assaulted by NVA regulars, including one of the first uses of armor
+by the North (see Event 45). LBJ fixated upon the siege, seeing it
+as a potential Dien Bien Phu. More recent analysis views the attack
+as a diversion in support of the Tet Offensive assaults on South
+Vietnam’s urban centers.
+38. McNamara Line NUVA 1965
+Fortification mentality: Redeploy all COIN forces outside Vietnam
+to COIN-Controlled Cities. ARVN Resources –12. No Infiltrate or
+Trail Improvement by Rally until Coup.
+MOMENTUM
+Tips. “Outside Vietnam” means Laos and Cambodia Provinces. The
+executing Faction gets to choose which redeploying pieces go to
+which COIN-Controlled Cities (5.1). Redeploy and Resource drop
+occur instantly and once; the effects on Infiltrate and Rally last until
+the next Coup Round (5.4).
+Background. This was a term associated with the US strategy to
+deploy an electronic sensor fence supported by air power to isolate
+the South from Northern infiltration. While it had some periodic
+successes, overall the historical view is that it failed to accomplish
+its major goal of interdicting the Trail.
+39. Oriskany NUVA 1965
+“Alpha” strikes on North Vietnam: Remove any 4 pieces from North
+Vietnam or, once none, Laos. Degrade Trail 2 boxes.
+Explosion on CV-34: 1 Available US Troop out of play. Through
+next Coup, no Degrade of Trail.
+MOMENTUM
+Tips. “Pieces” include unTunneled Bases as well as Troops and
+Guerrillas (1.4, 5.1.1). The US Troop goes out of play immediately;
+the ban on Degrade of Trail lasts through the end of the next Coup
+Round (so blocks effects of COIN Control in Laos/Cambodia and
+would leave “4” at “4”, 6.2.2 & 6.6).
+Background. The US Navy continually operated Carrier Task Forces
+from Yankee Station whose mission was to provide air support to 
+
+
+MACV and Rolling Thunder. Although the North did not have a
+blue water navy to contest these operations, they were not without
+incident. On October 26, 1966, a fire erupted on the USS Oriskany
+that took the lives of 44 seamen and pilots.
+40. PoWs NUVA 1968
+Release negotiations keep US at war: Free Air Strike. 2 US Troops
+from Casualties to Available.
+Air campaign creates hostages: 3 US Troops from Available to
+Casualties.
+Tip. Whichever Faction executes the unshaded Event decides the
+specifics of the Air Strike Special Activity (spaces targeted, whether
+the Trail is Degraded, etc.).
+Background. US pilots shot down over North Vietnam comprised
+the majority of the US prisoners of war held by the North, although
+all services had personnel held there. Pawns in the negotiations, it
+took the signing of the Paris Peace Accords to release them from
+captivity. To this day, not all missing US servicemen have been
+accounted for.
+41. Bombing Pause NAUV 1968
+Tet holiday gesture: Set any 2 spaces to Passive Support. Patronage
++2. No Air Strike until Coup.
+MOMENTUM
+Tip. The Support and Patronage take effect at once; the ban on Air
+Strikes lasts until the next Coup Round.
+Background. Over the course of Rolling Thunder and Linebacker I
+and II, the US employed a carrot and stick strategy. While the intent
+of bombing pauses was to give the North the opportunity to alter
+their aggression, they only served to allow the North to rebuild.
+42. Chou En Lai NAUV 1968
+Chinese opening to US: NVA Resources –10. NVA must remove a
+die roll in Troops.
+Chinese boost aid to North: NVA add +10 Resources. VC add Trail
+value in Resources.
+Tip. For the unshaded Event, the NVA get to choose which of their
+Troops are removed from the map.
+Background. Chou En Lai (or Zhou Enlai) was China’s able
+statesmen and geopolitical strategist who oversaw most of China’s
+participation in the Vietnam War. China supplied significant air defense
+forces and supplies to Hanoi over the course of the war. It was
+the specter of Chinese overt intervention in the war that prevented
+the US from seriously considering an invasion of North Vietnam.
+He also helped orchestrate Richard Nixon’s 1972 visit to China.
+43. Economic Aid NAUV 1964
+Free World aids Saigon: 2 ARVN or 2 US Bases out-of-play to
+Available. Then ARVN Resources +6 or Aid +12.
+Moscow aids Hanoi: Improve the Trail 1 box. Then either Improve
+it 1 more box or add +10 NVA Resources.
+Tip. Choose either 2 ARVN or 2 US Bases, not 1 ARVN Base and
+1 US Base.
+Background. The Vietnam War was a Civil War that occurred within
+the context of the Cold War. The Vietnam antagonists were fueled
+and supported by economic assistance from the various international
+actors in the war, primarily the US, China, and the Soviet Union.
+44. Ia Drang NAUV 1965
+Silver Bayonet: US free Air Lifts into 1 space with any NVA piece,
+then free Sweeps and Assaults there.
+Dong Xuan campaign—hot LZs: Select a Province with NVA
+Troops—remove a die roll of US Troops within 1 space of it to
+Casualties.
+Tips. For the unshaded Event, the US decides the details of the free
+actions but must Air Lift, Sweep, and Assault with something. The
+Sweep could occur even during Monsoon. The free US Assault can
+add an ARVN Assault at cost 0 (3.2.4). For shaded, the US Troops
+can be any either in the same space as or adjacent to the Province
+with NVA Troops.
+Background. In mid-November 1965, a 7th Cavalry operation
+became the first major test of the new US helicopter doctrine. The
+battle saw the 1st Cavalry Division engage several formations of
+NVA regulars in the Central Highlands. This battle was immortalized
+in the book and the film “We Were Soldiers Once… and Young”.
+45. PT-76 NAUV 1968
+NVA CAPABILITY
+Light armor target: Each NVA Attack space, first remove 1 NVA
+Troop cube.
+Communist armored assault: NVA Attack in 1 space removes 1
+enemy per Troop.
+Tips. The Capability will have no effect on NVA Attacks with
+Guerrillas where no NVA Troops. The unshaded version will remove
+an NVA Troop even when NVA Guerrillas Attack or Ambush in a
+space with an NVA Troop.
+Background. The Soviet PT-76 is an amphibious-capable light tank
+supplied to North Vietnam during the war. One of its first combat
+uses was against Khe Sanh in 1968 (Event 45).
+46. 559th Transport Grp NAVU 1965
+Tough terrain: Degrade the Trail by 2 boxes. Until Coup, Infiltrate
+is max 1 space.
+MOMENTUM
+The way through: NVA free Infiltrate. Then NVA add 3 times and
+VC 2 times Trail value in Resources.
+Tip. The Trail Degrades at once; the limit on Infiltrate lasts until
+the next Coup Round
+Background. The 559th Transport Group was a combined transportation
+and security organization that reported directly to the Central
+Committee in Hanoi. The Group’s main function was to operate,
+expand, and secure the infiltration routes that became known as the
+Ho Chi Minh Trail. It divided its area of operations (Laos and NE
+Cambodia) into subordinate units called binh trams. Each of these
+consisted of way stations responsible for the care and feeding of
+troops, road expansion and repair, plus local security. In 1967, the
+559th Group commanded 11 binh trams employing 7,000 porters.
+In the mid-1960s, a sister organization, the 470th Transport Group,
+took over responsibility for Cambodia.
+47. Chu Luc NAVU 1965
+Southerners resist invasion: Add ARVN Troops to double the ARVN
+pieces in a space with NVA. All ARVN free Assault NVA.
+NVA professional soldiers: Place up to 10 NVA Troops anywhere
+within 1 space of North Vietnam.
+Tips. For the unshaded Event, in the selected space, count the number 
+
+
+of ARVN pieces (including Bases) and place that number of ARVN
+Troops there from Available. Then ARVN Troops and Police Assault
+to remove NVA (only) in each map space with both ARVN and Active
+NVA. For the shaded Event, place the Troops anywhere among
+North Vietnam, Central Laos, Quang Tri, and the LoC from Khe
+Sanh to Hue (Highway 9)—even where Support or COIN Control.
+Background. From the time of the Viet Minh fighting the French,
+Chu Luc was the Vietnamese term for the full-time, professional
+soldiers of the National Liberation Front (NVA and VC).
+48. Nam Dong NAVU 1964
+CIDG camp holds out: Remove up to 3 Guerrillas from a Province
+with a COIN Base. Set the space to Active Support.
+Camp overrun: Remove a COIN Base from a Province with 0-2
+COIN cubes (US to Casualties) and set it to Active Opposition.
+Tip. “COIN” means US or ARVN. “US to Casualties” means that
+any US pieces removed go to the Casualties box, while ARVN piece
+removed go to ARVN Available Forces as usual (1.4.1).
+Background. On July 5, 1964 the Nam Dong CIDG camp was
+attacked by NVA and VC forces. The base is 32 miles west of Da
+Nang. The 5 hour battle resulted in the camp holding and Captain R.
+C. Donlon receiving the first Medal of Honor awarded during the war.
+49. Russian Arms NAVU 1968
+Soviet escalation matched: Place any 6 ARVN pieces anywhere in
+South Vietnam.
+Heavy divisions, big guns: NVA in any 3 spaces places enough
+Troops to double their number. It then free Bombards.
+Tips. “Pieces” include Bases. For the unshaded Event, the executing
+Faction would decide the pieces and locations. For the shaded, NVA
+decides; in each selected space, place the same number of NVA
+Troops as are already there, then execute a Bombard Special Activity.
+The Bombard need not involve any of the Troops just placed.
+Background. Depending on the political environment, Moscow
+supplied Hanoi with substantial shipments of armaments via China
+or Haiphong. The US mining of Haiphong in 1972 (Event 3)
+short-circuited this support.
+50. Uncle Ho NAVU 1964
+Known communist: 4 out-of-play US Troops to South Vietnam, or
+ARVN Resources +9. ARVN executes any 2 free Limited Operations.
+Revolutionary unifier: VC then NVA each execute any 3 free Limited
+Operations.
+Tips. The Faction executing the unshaded Event decides where the
+US Troops go. The Limited Operations can be the same or different,
+in any including the same spaces, and may be selected as they occur,
+so that results of previous choices may be taken into account.
+Background. Born May 19, 1890 as Nguyen Sinh Con, he died in
+1969 as Ho Chi Minh, North Vietnam’s President. He led a lifetime
+of resistance to foreign rule of Vietnam first as Nguyen That Tranh
+and later by the name he immortalized. He was ever the soul of
+Vietnamese resistance, and it was his vision that eventually prevailed
+in the conflict.
+51. 301st Supply Bn NVUA 1964
+Combat units diverted to logistics: Remove 6 non-Base Insurgent
+pieces from outside South Vietnam.
+Trail construction unit: Improve Trail by 2 boxes and add a die roll
+of NVA Resources.
+Tip. “Non-Base Insurgent pieces” include NVA Troops and NVA
+and VC Guerrillas.
+Background. The 301st Supply battalion was the first unit commissioned
+to infiltrate supplies into South Vietnam. The organization
+eventually grew to become the 559th Transportation Group.
+52. RAND NVUA 1968
+Whiz-kid corporation: Flip 1 shaded US Capability to unshaded.
+Systems analysis in ignorance of local conditions: Flip 1 unshaded
+US Capability to shaded.
+Tip. A player may execute either version (5.2), so ARVN may flip
+a US unshaded Capability to shaded.
+Background. The RAND Corporation is a federally funded research
+and development organization that had helped develop and articulate
+US nuclear doctrine. During the Vietnam War, RAND applied its
+analytic methods to understanding and recommending new strategies
+for winning the war. Daniel Ellsberg, a former RAND employee,
+leaked the “Pentagon Papers” to the press in 1971.
+53. Sappers NVUA 1965
+Ineffective tactics: Remove 2 NVA Troops each from up to 3 spaces
+in South Vietnam. Remain Eligible.
+Facilities damaged: Remove up to 1 US and 2 ARVN Bases from
+any Provinces (US to Casualties).
+Tip. Removal of pieces may change Control (1.7). The Bases may
+not be removed from Cities. “US to Casualties” means that any
+US Base removed goes to the Casualties box, while ARVN Bases
+removed go to ARVN Available Forces as usual (1.4.1).
+Background. Sappers were highly trained and motivated assault
+troops used to infiltrate and penetrate Counterinsurgent positions.
+54. Son Tay NVUA 1968
+Daring rescue: 2 Troop Casualties to Available. NVA Ineligible
+through next card. US Eligible.
+No prisoners there: Any 2 Casualties out of play. US Ineligible
+through next card
+Tip. For the unshaded text, place the US Eligibility Cylinder from
+wherever it is into the “Eligible Factions” box. If US executed the
+Event and ARVN 2nd Eligible, ARVN may execute Ops & Special
+Activity as usual.
+Background. The famous “Hanoi Hilton” was one of several locations
+in North Vietnam where US PoWs were held captive. On the
+night of November 21, 1970, US Special Forces launched a helicopter
+assault on the PoW camp at Son Tay, just west of Hanoi. The
+raid successfully took the camp, but unfortunately the approximately
+61 prisoners there had been recently moved to another location.
+
+
+55. Trucks NVUA 1964
+Bottlenecks: Degrade Trail 2 boxes. NVA selects and removes 4 of
+its pieces each from Laos and Cambodia.
+Convoys: Add twice Trail value to each NVA and VC Resources.
+NVAmoves its unTunneled Bases anywhere within Laos/Cambodia.
+Tips. For the shaded Event, NVA may have to remove as many
+as 8 pieces total—4 in Laos and 4 in Cambodia; “pieces” include
+Bases. For shaded, NVA may pick up all its unTunneled Bases from
+Laos and Cambodia spaces, then replace them into any Laos and
+Cambodia spaces desired, within stacking (1.4.2).
+Background. While much of the effort on the Ho Chi Minh trail
+was conducted with human muscle and animal power, it was the introduction
+of trucks that dramatically increased the trails throughput
+by reducing military casualties due to fatigue and disease.
+56. Vo Nguyen Giap NVAU 1965
+Premature conventional buildup: In each of any 3 spaces, replace
+any 2 Guerrillas with 1 NVA Troop.
+Military strategist: NVA free Marches into up to 3 spaces then
+executes any 1 free Op or Special Activity within each, if desired.
+Tip. The 3 spaces must be 3 different spaces, not the same space
+more than once. The NVA would March even during Monsoon.
+Background. Vo Nguyen Giap was the military genius and architect
+of the Viet Minh victory at Dien Bien Phu. He went on to lead the
+Peoples Army of Vietnam (NVA and VC) to victory. He was responsible
+for organizing and leading most of the major Communist
+offensives conducted during the war. Giap was born in 1911 and
+died in 2013 at the age of 102.
+57. International Unrest NVAU 1968
+Protests ignored: Any 2 US Casualties to Available.
+US accused of neocolonialist war: 2 Available US Troops out of
+play. NVA add a die roll of Resources.
+Tip. “US Casualties” may include Troops, Bases, and Irregulars.
+Background. The Vietnam conflict took place within the context of
+the Cold War. As the US commitment in Vietnam dragged on and
+its purpose became more ambiguous, protests against the conflict
+grew, not only in the United States but internationally.
+58. Pathet Lao NVAU 1968
+Drive on Vientiane: NVA removes 6 of its pieces total from North
+Vietnam and Laos.
+Trail security: If no COIN cubes in Laos, Improve Trail 2 boxes. If
+there are, US and ARVN Redeploy them to Vietnam.
+Tips. “Pieces” can include Bases. “COIN” means US or ARVN.
+ARVN Redeploys ARVN Troops to Cities without NVA Control,
+any US or ARVN Bases in South Vietnam, or Saigon, and Police to
+LoCs or COIN Control in South Vietnam (6.4.2). US Redeploys US
+Troops to anywhere in South Vietnam (including LoCs, if desired).
+Background. The Pathet Lao were a communist movement that
+ultimately prevailed during the Laotian Civil War—making Laos
+one of the dominos that seemed to validate the Domino Theory.
+The existence of the Pathet Lao provided the NVA some military
+and political cover for occupation of parts of Laos necessary for
+the maintenance and defense of the Ho Chi Minh Trail from North
+to South Vietnam.
+59. Plei Mei NVAU 1965
+CIDG interdict NVA: Remove any 3 NVA pieces from a space with
+or adjacent to a COIN Base.
+Tay Nguyen offensive: NVA free March from any spaces outside
+South Vietnam, then free Attack or Ambush any 1 space.
+Tips. “COIN” means US or ARVN. For the unshaded text, “a
+space” means the pieces must be removed from 1 single space.
+“Pieces” can include Bases. For shaded, the NVA can March
+repeatedly from Laos/Cambodia spaces—at cost 0—If the Trail
+is at 1 or more and would March even during Monsoon. Any Ambushes
+must occur in where there is at least one NVA Guerrilla to
+Activate (4.4.3), but need not be in March destinations nor involve
+Guerrillas that Marched and could occur even if all NVA Guerrillas
+there were already Active.
+Background. The Plei Mei Special Forces base in the Central Highlands
+was the objective of an NVA offensive in July 1965. This was
+the precursor to the fighting that led to the 1st Cavalry Silver Bayonet
+offensive in November 1965 (Event 44, “Ia Drang”).
+60. War Photographer NVAU 1968
+Pulitzer photo inspires: 3 out-of-play US pieces to Available.
+Photos galvanize home front: NVA place 6 Troops outside South
+Vietnam, add +6 Resources, and, if executing, stay Eligible.
+Tip. For the unshaded Event, Troops and Bases in US Available both
+affect the US Support + Available score (7.2). If NVA is the Faction
+executing the shaded Event, it stays Eligible.
+Background. Combat photojournalists have been romanticized
+for their pursuit of truth in the crucible of war. Both sides lost
+numerous such photojournalists during combat in Vietnam. For an
+amazing look at the experience and product of North Vietnamese
+war photographers, see National Geographic’s 2001 documentary,
+“Vietnam’s Unseen War”.
+61. Armored Cavalry AUNV 1968
+ARVN CAPABILITY
+Shock force: ARVN in 1 Transport destination after Ops may free
+Assault.
+Sedentary sinecures: Transport Rangers only.
+Tips. The unshaded “after Ops” means that the ARVN Assault occurs
+once all Transport and accompanying Operations are completed.
+Shaded effect means that no ARVN Troops—only Rangers—can
+move by Transport Special Activity the rest of the game.
+Background. The US supplied the ARVN with an array of light
+armored vehicles, giving them an enhanced offensive capability
+when supported by US advisors and air power, especially when
+under aggressive ARVN command.
+62. Cambodian Civil War AUNV 1968
+Lon Nol deposes Sihanouk: US free Air Lifts into and US or ARVN
+free Sweeps within Cambodia. Remove 2 NVA/VC Bases from
+Cambodia.
+NVA invades Cambodia: NVA places a total of 12 NVA Troops and
+Guerrillas in Cambodia.
+Tips. For the unshaded effect, US would decide the details of the Air
+Lift and whichever Faction was Sweeping would decide the Sweep’s
+details, including whether to move among Cambodia spaces. The
+Sweep could occur even during Monsoon. Tunneled Bases could
+not be removed (1.4.4, 5.1.1).
+
+
+Background. A pro-US military coup against Cambodian Prince
+Sihanouk, who had been tolerating NVA supply activities in the
+country (Event 75), in March 1970 installed general and politician
+Lon Nol as President. The NVA countered with an offensive against
+Cambodian forces, at times drawing in US and ARVN forces from
+South Vietnam. Fueled by the Vietnam War and NVA supplies, the
+Cambodian Communist Khmer Rouge eventually overthrew the
+Phnom Penh government on April 17, 1975.
+63. Fact Finding AUNV 1964
+US sends study teams: 2 US pieces from out-of-play to South Vietnam,
+or transfer a die roll from Patronage to ARVN Resources. Aid +6.
+Duped: Remove Support from a COIN-Controlled City outside
+Saigon. Patronage +4 or VC Resources +4.
+Tip. “Remove Support” means set either Active or Passive Support
+to Neutral (1.6.2). Note that either unshaded or shaded versions of
+the Event may be useful to the ARVN Faction.
+Background. Over the course of the Vietnam War, the US government
+sent a series of senior military and government officials
+to give the White House and Congress first-hand accounts on the
+progress of the conflict.
+64. Honolulu Conference AUNV 1965
+Uneasy allies: Aid +10 or –10. Patronage +3 or -5. If US or ARVN
+executing, that Faction Pacifies as if Support Phase. If Insurgent
+executing, that Faction remains Eligible.
+Tip. Either the US or the ARVN only—whichever is executing
+the Event—Pacifies, not one after the other as during the Support
+Phase (6.3.1).
+Background. Over the course of the Vietnam War, there were a series
+of conferences held between senior US government and Republic of
+Vietnam and ARVN leadership regarding military and political strategy
+plus the resources (US aid) to support the decisions. Honolulu,
+Hawaii served as a convenient geographic half-way meeting point.
+Meanwhile, across town, Volko attended kindergarten.
+65. International Forces AUNV 1968
+Free World allies: Place 4 out-of-play US pieces onto the map.
+Withdrawal: US must remove a die roll in pieces from the map to
+out of play.
+Tip. “Pieces” can include Bases. For the shaded text, the US decides
+which US pieces to remove.
+Background. The Vietnam conflict became a cockpit of the Cold
+War, with East and West blocs supplying forces and supplies. US
+“Free World Allies” serving in Vietnam included Australian (Event
+98), New Zealand, Philippine, South Korean (Event 70), Thai, and
+other forces.
+66. Ambassador Taylor AUVN 1964
+Interventionist: Aid and ARVN Resources each +9. Up to 2 US
+pieces from out-of-play to South Vietnam or, if desired, Patronage -3.
+Saigon seen as US puppet: Remove Support from 3 spaces outside
+Saigon. Patronage –3.
+Tips. The unshaded “if desired” means that the executing Faction
+may decline both the US pieces and the drop in Patronage. “Pieces”
+includes Bases. The shaded “remove Support” means remove
+any Active or Passive Support marker from the space, leaving it
+Neutral (1.6.2).
+Background. General Maxwell Taylor was a decorated veteran
+who commanded the US 101st Airborne division during WWII. He
+was General Ridgeway’s Chief of Staff during the Korean War and
+President Kennedy appointed him the fifth Chairman of the Joint
+Chiefs of Staff in 1962. After his second retirement from active
+military service in 1964, Taylor became the US Ambassador to
+South Vietnam through 1965.
+67. Amphib Landing AUVN 1965
+Sea power: US or ARVN relocates any of its Troops among coastal
+spaces, then free Sweeps and Assaults in 1 coastal space.
+Enemy vanished: VC relocate up to 3 pieces from any coastal space.
+US and ARVN Ineligible through next card.
+Tips. “Coastal” spaces are those touching or across a Highway from
+ocean (1.3.7). The Sweep could occur even during Monsoon. The
+named Faction decides where to relocate its pieces (VC to any map
+spaces). “Pieces” includes Bases.
+Background. Vietnam’s long coastline enabled numerous US Marine
+Corps and ARVN amphibious operations to support combat
+operations.
+68. Green Berets AUVN 1964
+Elite trainers: Place 3 Irregulars or 3 Rangers in a Province without
+NVA Control. Set it to Active Support.
+Reluctant trainees: Remove any 3 Irregulars to Available and set 1
+of their Provinces to Active Opposition.
+Tip. A Province with 0 Population cannot be set to Support or
+Opposition (1.6).
+Background. The Green Berets, as romanticized by the John Wayne
+film of the same title, were the US ground element that operated at
+the center of US unconventional warfare operations. Deployed as
+A and B teams in a series of Special Forces bases, the Green Berets
+organized and led local defense operations in the Vietnamese
+countryside.
+69. MACV AUVN 1965
+Military Assistance Command, Vietnam spurs coordination: Either
+US then ARVN or NVA then VC each executes any 1 free Special
+Activity. Faction executing Event stays Eligible.
+Tips. Each Faction involved decides the details of its own Special
+Activity. “1 free Special Activity” means within the usual maximum
+number of spaces for that type of Special Activity.
+Background. The Military Assistance Command, Vietnam was established
+in February 1962. It was the senior US command in theater
+commanded by in succession General Harkins (‘62), Westmoreland
+(‘64), Abrams (‘68), and Weyand (‘72). It was located in Saigon and
+coordinated most US efforts during the conflict.
+70. ROKs AUVN 1965
+Tough Koreans: US or ARVN free Sweep into/in then free Assault
+Phu Bon and adjacent spaces as if US and as if all ARVN cubes
+are US Troops.
+UN troops abuse locals: Shift Qui Nhon, Phu Bon, and Khanh Hoa
+each 1 level toward Active Opposition.
+Tips. For the unshaded text, the executing Faction picks US or
+ARVN and that faction decides the details of its Sweep and Assault.
+The Sweep could occur even during Monsoon. “Phu Bon and adjacent
+spaces” include Phu Bon, Qui Nhon, Binh Dinh, Kontum,
+Pleiku, Khanh Hoa, and—for Assault—the 3 LoCs touching Phu 
+
+
+Bon. “As if US and as if all ARVN cubes are US Troops” means that
+whichever selected Faction—US or ARVN—would move and fight
+with all US Troops, ARVN Troops, and Police as if all those cubes
+were US Troops, including double enemy losses for any US Base in
+a space, the effects of the “Abrams” Capability if in effect, and so on.
+Non-player ARVN will still use Non-player ARVN priorities (8.4.4).
+Background. The Republic of Korea supported the US with the
+deployment of several divisions that operated in the vicinity of Qui
+Nhon. They earned a reputation as aggressive fighters, but also were
+accused of massacres.
+71. An Loc ANUV 1968
+ARVN stand firm: In a space in the South with ARVN, remove all
+NVA Troops and place 3 ARVN Troops.
+Conventional thrust: NVA free Marches Troops into a City and free
+Attacks there twice.
+Tips. “The South” means any South Vietnam spaces, including
+all LoCs. The NVA March could occur even during Monsoon and
+costs 0 but otherwise follows all March rules, including repeated
+moves through Laos/Cambodia if the Trail is at greater than 0 and
+including possibly Activating moving Guerrillas (3.3.3). The Attacks
+also follow the usual rule, including either using NVA Troops or
+Activating Attacking Guerrillas.
+Background. During the 1972 “Nguyen Hue” offensive, also known
+as the “Easter Offensive” (Pivotal Event 122), the city of An Loc
+suffered a 66-day siege, in which the ARVN stopped the NVA’s
+advance on Saigon.
+72. Body Count ANUV 1965
+Crossover point: Until Coup, Assault and Patrol add +3 Aid per
+Guerrilla removed and cost 0.
+MOMENTUM
+“If it’s dead, it’s VC”: Place 1 VC Guerrilla in each Active Opposition
+space, 2 NVA Troops in each Laos/Cambodia space.
+Tip. “Cost 0” means ARVN will pay 0 Resources for these Operations,
+and US pays 0 even if an ARVN Assault is added as part of
+US Assault (3.2.4).
+Background. One of the ill-advised combat metrics adopted by the
+US Army to show military progress was enemy soldiers killed in
+action, known as “body count”. Under the old operations research
+adage that you are what you measure, this metric drove many combat
+behaviors that were at odds with winning a hearts and minds campaign,
+including—some suspected—erring on the side of declaring
+any bodies found to be enemy.
+73. Great Society ANUV 1965
+LBJ advances social agenda: Conduct a Commitment Phase.
+War wrecks economy: US moves 3 pieces from Available to out
+of play.
+Tips. For the unshaded text, the US as usual decides the details of
+the Commitment Phase. If unshaded “Great Society” occurs while
+unshaded Event 15 “Medevac” is in effect, “Medevac” affects the
+immediate Commitment Phase and then stays in effect to affect the
+coming Coup Round’s Commitment Phase as well. For shaded “Great
+Society”, the US decides which pieces; “pieces” can include Bases.
+Background. LBJ’s Great Society was his umbrella title for his
+domestic agenda. It was a bold initiative to reduce poverty and
+raise the US standard of living. Unfortunately, the Vietnam War’s
+call on resources and political attention derailed its most significant
+portions, and it ultimately was viewed as a failure.
+74. Lam Son 719 ANUV 1968
+Sudden incursion: Place up to 6 ARVN Troops in a Laos space.
+ARVN executes a free LimOp there. Degrade Trail 2 boxes.
+Southern escalation: NVA Resources +6 and +1 more for each
+ARVN piece in Laos.
+Tip. ARVN decides the details of the LimOp.
+Background. In February to March 1971, ARVN forces attacked into
+Laos to raid the Ho Chi Minh Trail’s infrastructure. The incursion
+was envisioned as a way to bolster ARVN morale and give proof
+that Vietnamization (Pivotal Event 123) was working. After the
+initial advance slowed, NVA security forces on the Trail vigorously
+counterattacked and routed the ARVN forces.
+75. Sihanouk ANUV 1964
+Pursuit operations: US or ARVN free Sweep into or in any Cambodia
+spaces, then free Assaults in one.
+Sea supply and sanctuary: VC free Rally in any Cambodia spaces
+then free March from any Rally spaces. Then NVA do the same.
+Tips. Whomever the executing Faction chose to Sweep would decide
+the details of the Sweep and Assault. Free US Assault can add an
+ARVN Assault at cost 0 (3.2.4). The Sweep or March could occur
+even during Monsoon. The NVA March could include repeated
+moves from Cambodia spaces if each such space just hosted NVA
+Rally and if the Trail is at greater than 0 (3.3.3).
+Background. The Sihanouk trail was the portion of the Ho Chi Minh
+trail that operated inside of Cambodia and supplied operations in the
+Mekong Delta region of South Vietnam. The Sihanouk trail received
+supplies from the north via Laos and the coast. Prince Norodom
+Sihanouk of Cambodia sought a balanced policy between East and
+West blocs that led him to tolerate NVA presence on Cambodian
+territory and North Vietnam’s use of Sihanoukville port and a “Sihanouk
+Trail” from there into South Vietnam.
+76. Annam ANVU 1965
+North-South rivalry lingers: NVA and VC –1 Resource each per
+space with both. Patronage +2.
+Saigon regime seen as colonial retread: Remove Support from Hue,
+Da Nang, and an adjacent Province.
+Tips. “Space with both” means a space with both NVA and VC
+pieces. “Remove Support” means set either Active or Passive Support
+to Neutral (1.6.2).
+Background. Vietnam is composed of several distinct ethnic groups.
+Annam in Central Vietnam was a French Protectorate distinct from
+Cochin China to the south and Tonkin to the north. Annam’s regional
+capital of Hue played a prominent role during the war and was a
+bastion of the Buddhist opposition against Catholic rule from Saigon.
+77. Détente ANVU 1968
+Communist Bloc eases off of war: Cut NVA and VC Resources each
+to half their total (round down). 5Available NVA Troops out of play.
+Nixon disappointed: NVA add +9 Resources or free Infiltrate. Then
+VC free Rally in up to 6 spaces.
+Tips. This unshaded event is the only way that pieces other than US
+or ARVN—NVA—will occupy the Out of Play box (1.4.1). For the
+shaded effect, the named Faction in each case decides its details.
+
+
+Background. Under President Nixon, part of US strategy in Vietnam
+and the Cold War in general was to effect a rapprochement with
+China to further isolate the Soviet Union. An ancillary objective
+was to weaken Chinese support for Hanoi (Events 42, 43, 49, and
+others). Nixon achieved the rapprochement just as Mark Herman
+became eligible for the draft. But Nixon expressed frustration that
+China did not yet turn its back on North Vietnam.
+78. General Lansdale ANVU 1965
+Unconventional counterinsurgent: Set a space outside Saigon
+with US or ARVN to Active Support. Add a Terror marker there.
+Patronage +1.
+Bureaucratic infighter: Patronage +3. No US Assault until Coup.
+MOMENTUM
+Tips. A Province with 0 Population cannot be set to Support (1.6).
+The Terror marker would be added even if one is already in the space.
+Background. General Edward Lansdale retired from the US Air
+Force in 1963 and worked out of the US Embassy in Saigon from
+1965 to 1968. He served as a counterinsurgency expert who advocated
+for unconventional tactics that often put him at odds with the
+US military.
+79. Henry Cabot Lodge ANVU 1964
+Ambassador proposes US protectorate: Aid +20.
+Internecine enabler: Remove up to 3 ARVN pieces. Patronage +2
+for each. ARVN Ineligible through next card.
+Tip. “Pieces” can include Bases.
+Background. Ambassador Henry Cabot Lodge was the US Ambassador
+to Vietnam and both preceded and succeeded Maxwell
+Taylor in that position (1963-1964, 1965-1967). He advocated for
+the removal of Ngo Dinh Diem that led to a disastrous series of coups
+and government instability that ultimately led to Northern victory.
+80. Light at the End of the Tunnel ANVU 1968
+Wind down seen: Remove 1-4 US pieces from map to Available.
+For each piece, Patronage +2, shift a space 1 level toward Active
+Opposition, and place 4 NVA Troops outside the South. Stay Eligible.
+Tips. The Faction executing the Event decides the details. “Pieces”
+can include Bases. A Province with 0 Population cannot shift (1.6).
+“Outside the South” means any North Vietnam, Laos, or Cambodia
+Provinces. The Faction executing the Event stays Eligible for the
+next card.
+Background. In late 1967, LBJ made a speech at the National Press
+Club in which he talked about the war, “where the end comes into
+view.” The Tet Offensive the following January (Pivotal Event 124)
+soon dashed the public’s raised expectations. The administration’s
+fueling of such expectations appear to have been a critical error, as
+some view the Tet Offensive to have been a US/ARVN defensive
+victory but a strategic loss due to the collapse of American homefront
+morale.
+81. CIDG AVUN 1965
+Civilian Irregular Defense Groups: Replace a die roll of VC Guerrillas
+in South Vietnam with Rangers, Irregulars, or Police.
+Desertions and defections: Replace all Rangers, Police, and Irregulars
+in a Highland space with 2 VC Guerrillas total.
+Tip. For the shaded text, the Irregulars (like the Rangers and Police)
+go to their Available box, not to Casualties (1.4.1).
+Background. The Civilian Irregular Defense Groups were a CIA
+program that had some successes at improving defenses along the
+border by training and equipping locals. The US military took over
+the program when the 5th Special Forces Group entered the theater
+in strength and changed the program’s focus to more conventional
+warfare tactics. The remnants of these groups were turned into
+ARVN Rangers in 1970.
+82. Domino Theory AVUN 1965
+US justifies its war: Up to 3 US or 6 ARVN out-of-play pieces to
+Available. Or ARVN Resources and Aid each +9.
+US public doubts war’s purpose: 3 Available US Troops out of
+play. Aid –9.
+Tip. “Pieces” can include Bases.
+Background. President Eisenhower used the image of dominos to
+describe the danger of letting countries fall under Communist rule.
+The theory opined that once one country in a region fell it would
+create a cascading situation of aggression akin to one domino striking
+another. This concept helped drive many senior-level decisions in the
+1960s—including a far more massive commitment to South Vietnam
+than Eisenhower would likely have intended. The fall of Laos and
+Cambodia to Communist forces in the wake of that commitment
+left the theory’s historical veracity far from clear. Did Hanoi cause
+the dominos to fall, or did the US presence itself enable the theory?
+83. Election AVUN 1965
+Clean vote: 3 Passive Support spaces to Active Support. Aid +10.
+Ballot stuffing defeats opposition candidate Druong Dinh Dzu: Shift
+2 Cities each 1 level toward Active Opposition. Aid –15.
+Tip. The spaces affected may include Saigon.
+Background. In 1967, Nguyen Van Thieu (card 128) won a Presidential
+election whose outcome was marred by numerous examples
+of ballot manipulation. He won the election against an array of
+opposition candidates, with Druong Dinh Dzu obtaining 17% of
+the votes to come in second.
+84. To Quoc AVUN 1968
+Fear of Northern reprisal: Place 1 ARVN Troop and 1 Police in
+each South Vietnam space with NVA.
+Thoroughly penetrated: ARVN remove 1 in 3 cubes (round down)
+each space. Place a VC Guerrilla in 3 spaces where ARVN removed.
+Tip. For the shaded version, ARVN selects and must remove 1 in
+3 of their own cubes (ARVN Troops or Police), not US or NVA.
+The executing Faction chooses which candidate spaces to place the
+VC Guerrillas.
+Background. To Quoc (Fatherland) formed part of the mottos of
+both the Army and National Police of the Republic of Vietnam. The
+ARVN by the 1972 Easter Offensive (Pivotal Event 122) demonstrated
+steadfastness in defense of Southern territory, such as at An
+Loc (Event 71). National Police forces were critical to the general
+security in the country. But the VC were successful in penetrating
+police organization at all levels of command—a key source of the
+insurgents’ intelligence advantage over the US.
+
+
+85. USAID AVUN 1965
+Increased help to civilians: Shift 3 COIN-Controlled spaces each
+1 level toward Active Support.
+More aid, more corruption: Increase or decrease any or all of ARVN
+Resources, Aid, and Patronage by 2 each.
+Tips. A Province with 0 Population cannot shift (1.6). The shaded
+effect may increase some and decrease other totals and may thus
+be useful for any Faction.
+Background. The US supplied most of the funds that fueled the
+war. MACV, DoD, CIA, and the State Department coordinated most
+of these efforts. State Department civilians of the US Agency for
+International Development deployed to Vietnam to support economic
+activity there and thereby improve the lot of the populace.
+86. Mandate of Heaven AVNU 1965
+ARVN CAPABILITY
+Anger at regime suppressed: 1 Govern space may transfer Aid to
+Patronage without shifting Support.
+Communism seen in harmony with Confucius: ARVN Govern and
+Pacify maximum 1 space.
+Tips. With the unshaded Capability, ARVN gets to decide each Govern
+space transferring to Patronage whether or not to shift. With shaded,
+Govern Special Activity will be “max 1” rather than “max 2” (4.3.1)
+and ARVN will only be able to Pacify in at most 1 of the possible
+US plus ARVN maximum of 4 spaces each Support Phase (6.3.1).
+Background. There is a Confusion concept, important in Vietnamese
+tradition, that a government that does not have the Mandate of Heaven
+is illegitimate and may be opposed, with the obverse conferring
+legitimacy and calling for obedience.
+87. Nguyen Chanh Thi AVNU 1965
+I Corps Commander: Place 3 ARVN pieces within 3 spaces of Hue.
+Shift receiving spaces each 1 level toward Active Support.
+Popular general relieved: Replace any 2 ARVN with any 2 VC
+pieces within 2 spaces of Hue. Patronage +4 or -4.
+Tip. A LoC or Province with 0 Population cannot shift (1.6).
+Background. Thi was the very influential and effective ARVN I
+Corps Commander. He was known for running his own command
+in a manner not always aligned with Saigon’s strategy. Due to persistent
+rumors that Thi was going to depose Ky, the two generals
+understandably had a rocky relationship. Eventually, Thi’s insubordination
+was the grounds upon which Ky relieved him of command
+(cards 126 & 127).
+88. Phan Quang Dan AVNU 1968
+Dissident becomes RVN minister: Shift Saigon 1 level toward Active
+Support. Patronage +5.
+Oppositionist Assemblyman: Shift Saigon 1 level toward Neutral.
+Patronage –5. ARVN Ineligible through next card.
+Tip. Adjust the US victory marker (Support + Available) when
+changing Support and the ARVN victory marker (COIN Control +
+Patronage) when increasing or decreasing Patronage.
+Background. Phan Quang Dan was a Republic of Vietnam opposition
+leader who was imprisoned by Diem when he won a National
+Assembly seat. After Diem was assassinated in late 1963, Phan
+Quang Dan was released from prison and later served as RVN
+Deputy Prime Minister.
+89. Tam Chau AVNU 1965
+Catholic backlash: Shift Saigon 1 level toward Passive Support.
+Patronage +6.
+Saigon Buddhists find leader: Place a VC piece in and shift Saigon
+1 level toward Passive Opposition. Patronage –6.
+Tip. A Base is a “piece”.
+Background. Thich Tam Chau was one of the leaders of the Buddhist
+riots in 1966. He headed up an organization in Saigon called
+the Institute for the Propagation of the Buddhist Faith. He clashed
+with another Buddhist leader, Hue-based Thich Tri Quang (Event
+114) on tactics.
+90. Walt Rostow AVNU 1965
+COIN portfolio: Place any 2 ARVN pieces from anywhere (even
+out of play) into any COIN Control spaces.
+The enemy owns the night: Place any 1 Guerrilla in each Province
+with ARVN. ARVN Troops Redeploy as if no Bases.
+Tips. “Pieces” include Bases. For the shaded effect, the Redeploy is
+once and immediate—ARVN Troops depart all Provinces and LoCs
+for Cities with no NVA Control or Saigon (6.4.2).
+Background. Rostow was LBJ’s National Security Advisor from
+1966 until Johnson left office. Prior to that, Rostow served in the
+Kennedy administration in the National Security Council organization.
+He was a major advocate for intervention and escalation of
+the war. He remains a very controversial figure who leveraged his
+relationship with the President to have a significant impact on US
+strategy during his tenure.
+91. Bob Hope VUNA 1968
+USO: Move any US Troops from a Province to a COIN Control
+City. For each 2 moved (round down), 1 Casualty piece to Available.
+Show lowers op tempo: NVA or VC move up to 3 US Troops from
+any Provinces to Cities, placing a Guerrilla where each Troop was.
+Tip. “Pieces” include Bases.
+Background. Bob Hope was a legendary US comedian who devoted
+himself to the USO (United Service Organizations Inc.). As the
+Vietnam conflict developed, he continued his history of entertaining
+the troops at the battlefront. In 1997, the US Congress awarded him
+the status of “honorary veteran”, which he viewed as the greatest
+honor that he had ever received.
+92. SEALORDS VUNA 1968
+Delta strategy: ARVN then US free Sweep in place or Assault in
+each space adjacent to Can Tho.
+Sampans: NVA or VC moves any of its pieces (including unTunneled
+Bases) from Cambodia/Tay Ninh to spaces adjacent to Can Tho.
+Tips. ARVN and US each decide the details of their respective
+Sweeps or Assaults. “Spaces adjacent to Can Tho” include the 3
+Mekong river LoC spaces.
+Background. Operation Southeast Asia Lake, Ocean, River, and
+Delta Strategy (SEALORDS) was led by Admiral Zumwalt (COMNAVFORV;
+Commander Naval Forces Vietnam). The objective was
+to disrupt NVA lines of communication in and around the Mekong
+Delta. The operation came to a close in 1971.
+
+
+93. Senator Fulbright VUNA 1964
+Hearings stoke debate: US moves 4 US pieces from map to Available.
+War skeptic: 1 Available US Base out of play. Aid –9.
+Tip. A Base is a “piece”.
+Background. Senator Fulbright represented Arkansas from 1945-
+1975. The Senator was one of the sponsors of the Gulf of Tonkin
+resolution but later became a major critic of the US war effort.
+94. Tunnel Rats VUNA 1968
+Subterranean specialists: Place a Tunnel marker on an Insurgent
+Base in each of 2 Provinces, or remove 1 Tunneled Base from a
+space with US Troops.
+Tip. This is one of just a few Events that can force removal of
+Tunneled Bases (5.1.1).
+Background. “Tunnel Rats” was the nickname for lightly armed
+US soldiers who penetrated into insurgent tunnel complexes and
+engaged the enemy at arms’ length in the dark.
+95. Westmoreland VUNA 1965
+Root ‘em out: US free Air Lifts, then Sweeps (no moves) or Assaults
+(no ARVN) in 2 spaces, then Air Strikes.
+Big-unit war bypasses population: Shift 3 Provinces with no Police
+each 2 levels toward Active Opposition.
+Tips. For the unshaded effect, US decides the details of the unshaded
+actions, which follow the usual restrictions, except that the Sweep
+Op could occur even during Monsoon, Sweep is in place only because
+of “no moves”, and the US Assault may not add and ARVN
+Assault (because of “no ARVN”). Air Strike can include Degrading
+the Trail as usual (4.2.3). For shaded, 0 Population Provinces cannot
+shift from Neutral.
+Background. General Westmoreland in 1964 became the second
+commander of MACV (Event 69). He believed in a strategy of large
+conventional battle. He advocated and sought to bring NVA regulars
+into set-piece engagements in which overwhelming US superiority
+in firepower and technology would break the back of the enemy
+military. Westmoreland’s strategy during the critical ‘64-‘67 period
+is sometimes cited as one of the reasons for US defeat in the war.
+96. APC VUAN 1968
+Accelerated Pacification Campaign: US and ARVN immediately
+Pacify as if Support Phase, but cost is 0. Shift at most 1 level per
+space.
+False progress: If Tet Offensive played, return it to VC. If not, VC
+execute “General uprising” as on the card (without using it).
+Tips. For the unshaded text, the Pacification also removes Terror
+markers for cost 0. For the shaded text, if Event #124 “Tet Offensive”
+has not been executed (including because it is not used in this
+scenario), execute the “Tet Offensive” Event text that follows the
+flavor text “General uprising”. The disposition of the “Tet Offensive”
+card is not affected.
+Background. The APC or “Accelerated Pacification Campaign”
+was a US post-Tet campaign based on a clear and hold strategy
+(rather than search and destroy, Event 28). Basically, regular forces
+cleared an area of enemy insurgents then trained and armed the
+populace for local defense. The program yielded mixed success.
+The Communists soon had recovered sufficient strength from the
+1968 Tet defeat (Pivotal Event 124) to launch a second, albeit more
+limited, Tet Offensive, this time focused on causing US casualties
+rather than seizing cities. The APC was discontinued in the early
+1970s as the US began its withdrawal from Vietnam.
+97. Brinks Hotel VUAN 1964
+NLF terror reconciles GVN-US: Aid +10, or 4 Patronage to ARVN
+Resources. Flip any current RVN leader card—its text is ignored.
+US billet car bombed: Shift a City that has VC by 2 levels toward
+Active Opposition and add a Terror marker there.
+Tips. Unshaded text has no effect on “Duong Van Minh” or “Failed
+Attempt”; a flipped RVN leader card still counts as a card in the RVN
+leader box, such as for Pivotal Event pre-conditions. For shaded, any
+VC piece in the City—Guerrilla or Base—makes the space a candidate;
+the Terror marker would be added even if one is already there.
+Background. On Christmas Eve 1964, the VC deployed a car bomb
+that killed 2 and injured 60 at the Brinks Hotel. The attack demonstrated
+that VC terror could reach into the capital when desired.
+98. Long Tan VUAN 1965
+Royal Australians: Place 2 out of play US Troops into a Province or
+remove all Guerrillas from all Jungle with US Troops.
+VC strike newly arrived troops: 1 US Base and 1 US Troop in a
+Jungle with 2+ VC Guerrillas to Casualties.
+Tip. For the unshaded effect, the Troops could go into any 1 Province
+except North Vietnam, not necessarily into Jungle.
+Background. The Battle of Long Tan took place on August 18,
+1966 between Australian and NLF (NVA and VC) forces on a large
+rubber plantation. In a confused, fragmented, monsoon-soaked
+engagement, the 6th Royal Australian Regiment prevailed against
+a far larger enemy force.
+99. Masher/White Wing VUAN 1965
+Sweep flushes enemy into kill zone: US or ARVN free Sweeps 1
+non-Jungle space with US and ARVN Troops. They free Assault
+as US.
+Poor OPSEC: VC or NVA free March Guerrillas to any 3 spaces
+then free Ambush in each (even if Active).
+Tips. The Sweep or Marches could occur even during Monsoon. For
+the unshaded text, the executing Faction picks US or ARVN and that
+Faction decides the details of its Sweep and Assault. US and ARVN
+Troops both can move and Activate Guerrillas. ARVN Troops would
+contribute as if US Troops, including double enemy losses for any
+US Base in a space, and so on. For shaded, the executing Faction
+picks VC or NVA and that Faction decides the details of the March
+and Ambush. NVA March could include multiple moves from Laos/
+Cambodia spaces if the Trail is at greater than 0. The Ambushes
+must occur in March destinations, but need not involve Guerrillas
+that Marched and could occur even if all that Faction’s Guerrillas
+there were already Active.
+Background. Masher/White Wing was a combined US, ROK, and
+ARVN Search and Destroy operation in Bin Dinh province during
+early 1966. This offensive saw the 1st Cavalry Division with Allied
+support take on the NVA 3rd Division in a 42-day series of
+engagements. US casualties were 288 killed and over 900 wounded,
+against the declared destruction of the NVA forces that later turned
+out to be incorrect.
+
+
+100. Rach Ba Rai VUAN 1965
+Riverines hunt Charlie: Remove all VC or all non-Troop NVA from
+a Lowland with US Troops.
+VC river ambush: In a Lowland with any VC, remove a die roll of
+US/ARVN cubes (US to Casualties). Place 1 VC piece.
+Tips. “A Lowland” means 1 Lowland Province. A “piece” can include
+a Base. “US to Casualties” means that any US pieces removed
+go to the Casualties box, while ARVN pieces removed go to ARVN
+Available Forces as usual (1.4.1).
+Background. Known to counterinsurgent forces as Coronado V, the
+engagements at Rach Ba Rai occurred in September-October 1966
+in the Mekong Delta. The fighting featured a series of sweeps and
+engagements with the VC 263rd Main Force Battalion (the type of
+unit represented by Event 104).
+101. Booby Traps VNUA 1964
+VC CAPABILITY
+Preparations tip off enemy: VC and NVA Ambush is max 1 space.
+Mines and punji: Each Sweep space, VC afterward removes
+1 Sweeping Troop on roll of 1-3 (US to Casualties).
+Tip. “US to Casualties” means that any US pieces removed go to the
+Casualties box, while ARVN pieces removed go to ARVN Available
+Forces as usual (1.4.1).
+Background. The VC were primarily a light-armed force that
+deployed an array of ancient and modern anti-personnel devices
+to harass and kill COIN forces during the conflict. The VC were
+ingenious in their use of discarded US war material and unexploded
+ordnance to build these devices, but many other devices were
+ancient traps constructed from sharpened sticks, employing pits or
+plant tension to ensnare their target.
+102. Cu Chi VNUA 1965
+Clear and secure: Remove all Guerrillas from 1 space with a Tunnel
+and COIN Control.
+Iron Triangle: Place Tunnel markers on each Insurgent Base in 1
+Province. Place 1 NVA and 1 VC Guerrilla there.
+Tip. “A Tunnel” means a Tunneled Base.
+Background. Located in Binh Duong province (between Tay Ninh
+and Phuoc Long), the tunnel complexes near Cu Chi extended for
+several hundred miles and remained under VC control during the
+entire war. The US and ARVN forces conducted several famous
+offensives to reclaim the region such as Operations Attleboro (Event
+23), Cedar Falls, and Junction City.
+103. Kent State VNUA 1968
+National Guard imposes order: Any 2 US Casualties to Available.
+1 free US LimOp. US Eligible.
+National Guard overreacts: Up to 3 US Troop Casualties out of
+play. Aid –6. US Ineligible through next card.
+Tip. For the unshaded text, place the US Eligibility Cylinder from
+wherever it is into the “Eligible Factions” box. If US executed the
+Event and ARVN 2nd Eligible, ARVN may execute Ops & Special
+Activity as usual.
+Background. In response to the US invasion of Cambodia (Event
+62), there was a surge of anti-war protests across US college campuses.
+On May 4, 1970, Ohio National Guardsmen fired on Kent
+State student protesters, killing four and wounding nine. The public
+backlash to the shooting and fears of further government reprisal
+closed colleges across the country.
+104. Main Force Bns VNUA 1965
+VC CAPABILITY
+Larger footprints: March into Support/LoC Activates if moving plus
+non-Base COIN >1 (vice >3).
+Hard-hitting guerrillas: 1 VC Ambush space may remove 2 enemy
+pieces.
+Tip. The shaded Capability will enable each VC Ambush Special
+Activity to remove up to a total of 3 enemy pieces between its
+maximum 2 spaces.
+Background. Due to initial US successes with their sweeps, the VC
+worked to upgrade the weaponry and tactics of their Main Force
+Battalions. A good example is the effectiveness of the 261st Main
+Force Battalion in Ap Bac against an ARVN 7th Division assault in
+the Mekong Delta region.
+105. Rural Pressure VNUA 1965
+Onerous VC Taxation: Shift 4 Provinces with any VC each by 1 level
+toward Active Support.
+Local government corruption: Shift 3 Provinces with Police each
+by 1 level toward Active Opposition. Patronage +6 or –6.
+Tip. A Province with 0 Population cannot be shifted from Neutral
+(1.6).
+Background. This event acknowledges the intense conflict that
+occurred for the hearts and minds of the rural hamlet culture of Vietnam.
+The same villagers who traditionally had seen little government
+presence of any use to them later came to resent the squeeze of VC
+who needed ever increasing support to fight the invader.
+106. Binh Duong VNAU 1965
+Revolutionary land reform seeks traction in prosperous districts: In
+each of 2 Provinces adjacent to Saigon, shift Support/Opposition
+1 level either direction and place a VC Guerrilla or Police.
+Tip. Shifting toward Opposition and placing Police would be a legal
+(if unusual) move.
+Background. Both sides preached land reform in an attempt to
+redistribute land from wealthy landowners to a broader class of farmers.
+Binh Duong Province near the capital region was the relatively
+prosperous locale of one such initiative. While powerful landowners
+neutered ARVN efforts at land reform, VC efforts of indoctrination,
+intimidation, and execution were more effective.
+107. Burning Bonze VNAU 1964
+Gruesome protests close elite ranks: Patronage +3 or, if Saigon at
+Active Support, +6.
+Anti-regime self-immolation: Shift Saigon 1 level toward Active
+Opposition. Aid –12.
+Tip. Adjust the ARVN victory marker (COIN Control + Patronage)
+when increasing or decreasing Patronage, the US victory marker
+(Support + Available) if changing Support, and the VC victory
+marker (Opposition + Bases) if adding Opposition.
+Background. Diem and the governments that followed him in Saigon
+had a strong core of Catholics who stood in opposition to the
+Buddhist leadership centered in the ancient capital at Hue. One of
+the iconic images of Vietnam was the self-immolation performed by
+five Buddhist monks to protest Saigon’s Catholic policies.
+
+
+108. Draft Dodgers VNAU 1965
+Public furor sparks enlistment: If fewer than 3 Casualty pieces, 3
+US Troops from out of play to Available.
+Recruiting sags: Move 1 US Troop per Casualty piece, to a maximum
+of 3, from Available to out of play.
+Tip. “Pieces” include Bases.
+Background. As the Vietnam War’s unpopularity in the United
+States grew, some men called up for service left the country to avoid
+military induction. President Carter pardoned all draft dodgers soon
+after taking office.
+109. Nguyen Huu Tho VNAU 1965
+Party control of NLF draws anti-communist reaction: Shift each
+City with VC 1 level toward Active Support.
+National Liberation Front leader: Place a VC Base and a VC Guerrilla
+in Saigon.
+Tip. The VC Base cannot be placed if there are already 2 of any
+Factions’ Bases in Saigon (1.4.2, 5.1.1).
+Background. Tho was a VC leader stationed Saigon who successfully
+organized revolutionary cells. Tho laid the groundwork for
+the infrastructure that supported the Tet offensive attacks in Saigon
+in 1968. Some have described him as a mere figurehead, masking
+Northern control of the NLF with the appearance of indigenous
+Southern leadership.
+110. No Contact VNAU 1964
+Respite: Place 2 Casualties onto the map. All Rangers and Irregulars
+Underground.
+Charlie bugs out: Flip all VC and NVA Guerrillas Underground.
+Tip. The unshaded text allows selection of any 2 pieces from the
+Casualties box—Troops, Irregulars, or Bases—and their placement
+into any map spaces where they may stack (1.4.2).
+Background. A key military tactic is to find and fix the enemy to
+eliminate him. In general, the VC and NVA had superior tactical
+intelligence on the location of COIN forces and, when faced with
+superior numbers, would often avoid contact.
+111. Agent Orange VAUN 1968
+Counter-sanctuary chemical: All Insurgents in Jungle go Active. US
+free Air Strikes among up to any 2 Jungle spaces (no effect on Trail).
+Industrial defoliation: Shift each Jungle and Highland with Insurgents
+1 level toward Active Opposition.
+Tips. For the unshaded text, the US decides the details of the Air
+Strike but may not Degrade the Trail. For shaded, a Province with
+0 Population cannot be shifted from Neutral (1.6).
+Background. Agent Orange was a defoliant chemical named for
+the orange striped canisters it was delivered in from Monsanto and
+Dow Chemicals. The chemical was employed in Operation Ranch
+Hand, whose goal was to deny the insurgents cover and concealment.
+While technically not a form of chemical warfare, soldiers
+and civilians exposed to strong concentrations of Agent Orange have
+been documented to suffer from significant long-term health effects.
+112. Colonel Chau VAUN 1964
+Census-grievance teams: Place 1 Police into each of 6 Provinces.
+Local Viet Minh tradition: Shift 3 Provinces with ARVN each 1 level
+toward Active Opposition. Place a VC Guerrilla in each.
+Tip. A Province with 0 Population cannot be shifted from Neutral
+(1.6).
+Background. Tran Ngoc Chau was a former member of the Viet
+Minh who due to his Buddhist views changed sides and distinguished
+himself as an innovative administrator and counterinsurgency tactician.
+He devised “census-grievance teams” to establish the first
+benign government presence in villages contested by the VC, and
+thereby gain information on VC infrastructure—often in the face of
+local Viet Minh resistance tradition and therefore pro-VC sentiment.
+113. Ruff Puff VAUN 1968
+RF/PF–Regional and Popular Forces: Place up to 8 Police in the
+South.
+Ill-trained, thoroughly subverted: Replace 5 Police outside Cities
+with 1 VC piece each—1 of the VC pieces may be a Base.
+Tip. In the unshaded text, “in the South” means into any spaces in
+South Vietnam, including any LoCs. For shaded, only 1 VC piece
+placed may be a Base, the others must be Guerrillas.
+Background. The US response to VC insurgency at the hamlet level
+was channeled through the host of local security elements known as
+Ruff Puffs. The performance of these units ran the full gamut from
+high quality to inept. While a significant component of the CORDS
+program (Event 19), the RF/PF proved incapable of overcoming the
+instability radiating from Saigon.
+114. Tri Quang VAUN 1965
+Buddhists counter Communists: Set up to 3 Neutral or Opposition
+Cities to Passive Support.
+People’s Revolutionary Committee: Shift Hue, Da Nang, and Saigon
+1 level toward Active Opposition. Place a VC piece in Saigon.
+Tip. A “piece” may be a Base.
+Background. Tri Quang was a non-communist leader of the Buddhist
+opposition in Hue. He led the Buddhist revolt that saw 5 Bonzes
+immolate themselves in protest against Diem’s policies. After Diem,
+he remained a potent political force, eventually arrested under Ky.
+115. Typhoon Kate VAUN 1968
+Year of storms: Until Coup, no Air Lift, Transport, or Bombard, and
+all other Special Activities are maximum 1 space. Executing Faction
+stays Eligible.
+MOMENTUM
+Tip. When “Typhoon Kate” is in effect during Monsoon, no Air
+Lift is allowed, and Air Strike is limited to 1 space not 2 (5.1.1).
+Background. There have been a number of Typhoons named Kate
+over the decades. In 1970, a super Typhoon Kate devastated the
+Philippines and Vietnam. This event represents extreme weather
+beyond the annual Monsoon that is built into the game system.
+
+
+116. Cadres VANU 1964
+VC CAPABILITY
+Manpower to political sections: VC to Terror or Agitate must remove
+2 VC Guerrillas per space.
+NLF village committees: VC Rally in 1 space where VC already
+had a Base may Agitate as if Support Phase even if COIN Control.
+Tip. For the unshaded effect, if VC have fewer than 2 Guerrillas in
+a space, they may not execute Terror or Agitate there, until they do
+have 2 Guerrillas there to remove.
+Background. As famously described in Frances FitzGerald’s book,
+VC tactics emphasized the insertion of politicized cadres into the
+countryside villages, where they worked to first ingratiate themselves
+to the local population and later mobilize them for the conflict. The
+core of the US hearts and minds campaign revolved around neutralizing
+this potent guerrilla infrastructure.
+117. Corps Commanders VANU 1968
+ARVN general takes initiative: ARVN places 3 of its Troops from out
+of play or Available into 1 or 2 adjacent spaces then free Sweeps each.
+Corps CO ignores Saigon: Remove a die roll of ARVN pieces from
+1 or 2 adjacent spaces. ARVN Ineligible through next card.
+Tip. For the unshaded text, the ARVN Faction decides from and to
+where to place the Troops.
+Background. Due to instability at the core of the RVN government,
+the ARVN Corps Commanders tended to have a degree of autonomy
+from Saigon. This event characterizes these powerful and potentially
+volatile general officers’ impact on operations.
+118. Korean War Arms VANU 1964
+Obsolete: VC must remove 1 VC Guerrilla from each space with at
+least 2 and no NVA Base.
+NLF gets US arms captured in Korea: Place any 1 VC piece in
+each of 3 spaces.
+Tips. For the unshaded text, because VC are deciding on removal,
+they may remove Active rather than Underground VC Guerrillas.
+For shaded, a “piece” may be a Base.
+Background. Early in the conflict all forms of older weapons from
+WWII and the Korean War were supplied to the NVA and in turn
+to the VC. These weapons varied in quality depending on how they
+were stored and maintained.
+119. My Lai VANU 1968
+US LT convicted: 2 Available US Troops out of play. Patronage +2.
+Massacre: Set a Province with US Troops to Active Opposition. VC
+place a Base and Guerrilla there. Aid –6.
+Tip. Provinces with 0 Population do not shift from Neutral.
+Background. On March 16, 1968, a platoon of the 23rd Infantry
+Division under the command of 2nd Lt. William Calley Jr. massacred
+22 villagers during a combat mission. Initially, the incident was
+covered up, but it eventually came to light in November of 1969.
+The revelation and subsequent trial of Calley drew major protests
+worldwide and contributed to the weakening of US public support
+for the war.
+120. US Press Corps VANU 1968
+Initial support: Move US pieces from out of play to map—4 if 0-2
+cards in RVN Leader box, 2 if 3-5.
+Building skepticism: US Troop Casualties up to cards in RVN Leader
+box plus all US Base Casualties go out of play.
+Tips. “Pieces” can include Bases. For the shaded text, count the
+number of Coup cards (including any “Failed Attempt” cards) in
+the RVN Leader box: the executing Faction selects that number
+of non-Base pieces in the Casualties box—in addition to all Bases
+there—to move to the Out of Play box.
+Background. The Vietnam War became known as the first TV
+war, when, every evening, correspondents such as Walter Cronkite
+brought the war into America’s living rooms. Whether reflecting
+or contributing to public sentiment, US war journalism became
+progressively less supportive of US engagement over the course
+of the conflict.
+121. Linebacker II UAVN
+US Pivotal Event—Play if 2+ cards in RVN Leader box and Support+Available
+>40.
+Unrestricted air war: NVA removes 2 Bases, Resources –15, Ineligible
+through next card. 6 Casualties or 3 US out of play to Available.
+Not if Coup! showing as next card.
+Tips. Do not count Duong Van Minh—an RVN leader but not a
+card—for the precondition (2.4.1). The NVA Faction decides which
+2 of its Bases to remove, then loses 15 Resources and is marked
+Ineligible. The US decides which Casualties or US out-of-play pieces
+(including Bases) then move to Available.
+Background. After years of graduated, limited, and paused US
+bombing of North Vietnam, President Nixon on December 18, 1972
+unleashed the full conventional power of the US Air Force in an 11-
+day bombing campaign to bring Hanoi back to the negotiating table
+in Paris and finally bring US PoWs (Event 40) home.
+122. Easter Offensive NVAU
+NVA Pivotal Event—Play if 2+ cards in RVN Leader box and more
+NVA Troops than US Troops on map.
+Invasion: NVA free Marches. Then NVA Troops on LoCs with no
+US/ARVN may move 1 space. Then all NVA Troops free Attack.
+Not if Coup! next. May trump Pivotal U.
+Tips. Do not count Minh as a card for the precondition. “On map”
+means in South Vietnam, North Vietnam, Laos, and Cambodia
+combined. NVA March may include the usual multiple moves in or
+out of Laos/Cambodia spaces (unless the Trail is at “0”, 3.3.2). NVA
+Troops must Attack wherever there are enemies; NVA Guerrillas
+may March but do not Attack.
+Background. The “Nguyen Hue” campaign of 1972 was an all-out
+Northern offensive that severely tested the strength of the ARVN in
+the void of the US withdrawal. The NVA onslaught illustrated their
+emerging mechanized capability. The flipside of mechanization was
+that US airpower was designed to defeat such a force. Although some
+Southern territory was lost, airpower turned the tide and neutralized
+the NVA drive on Saigon.
+
+
+123. Vietnamization AUNV
+ARVN Pivotal Event—Play if 2+ cards in RVN Leader box and
+<20 US Troops on map.
+Mechanization: +12 ARVN Resources. +12 Aid. All out-of-play
+ARVN Available. Place 4 ARVN cubes anywhere.
+Not if Coup! next. May trump Pivotal NU.
+Tips. Do not count Minh as a card for the precondition. “On map”
+means in South Vietnam, Laos, and Cambodia combined.
+Background. Vietnamization was the Nixon administration’s term
+for turning the war over to the ARVN and beginning the US withdrawal.
+While this strategy had been pursued in some fashion since
+the beginning of the war, it was Nixon’s determination to alter the US
+relationship with the ARVN that made its implementation a necessity.
+Materially, it meant mechanizing the ARVN and providing it with
+far more up-to-date weaponry than the US had granted it heretofore.
+The Lam Son 719 debacle (Event 74) showed that its success would
+take time, but the 1972 stand against the Easter Offensive (Event 71
+and Pivotal Event 122) appeared to vindicate the approach.
+124. Tet Offensive VNUA
+VC Pivotal Event—Play if 2+ cards in RVN Leader box and >20
+VC Guerrillas in South.
+General uprising: Free Terror with 1 Underground VC per space.
+Place 6 VC pieces in any Cities. VC+NVA Guerrillas free Attack
+where enemies (remove VC first).
+Not if Coup! next. May trump Pivotal ANU.
+Tips. Do not count Minh as a
+card for the precondition. “In
+South” means among all South
+Vietnam spaces, including
+all LoCs. Carry out the steps
+in order. Terror is mandatory
+wherever Underground VC
+Guerrillas—even if no shift
+will benefit the VC—Activating
+1 Underground VC Guerrilla
+each such space. If Terror
+markers will run out, it is up to
+the VC (random if Non-player)
+to decide the order of Terror
+spaces. Attacks are mandatory
+where VC or NVA Guerrillas
+are located with any enemies,
+Activating all those Guerrillas, and include VC who just executed
+Terror. If both VC and NVA Guerrillas occupy such a space, add
+their numbers together to determine the die roll needed for success,
+removing VC before NVA if possible when US Troop or Base losses
+result in Attrition (3.3.3). See also Non-player Example 1, earlier
+in this Playbook.
+Background. In 1968, the NLF (VC and NVA) launched a massive
+offensive timed to a cultural holiday season. The objective was to
+capture major urban centers and raise the populace in revolt against
+the RVN government. The resulting counteroffensive decimated
+the ranks of the VC, enabling Hanoi to take greater control over
+the war effort. Counteroffensive operations by ARVN in particular
+also created tremendous damage to civilian infrastructure, while US
+casualties and the shock to the US public began an unrecoverable
+downward spiral in backing for the war.
+125. Coup! Nguyen Khanh
+Corps commanders ascendant: Transport uses max 1 LoC space.
+Conduct Coup Round: Victory? to Reset
+Monsoon: If this card next, no Sweep or March, Air Lift & Air
+Strike max 2.
+Tip. “Nguyen Khanh” restricts Transport throughout the coming
+campaign, until Khanh is replaced by a Coup card other than “Failed
+Attempt” (2.4.1). Usually, Transport can move ARVN Troops and
+Rangers through a string of LoCs and Cities, but “Khanh” limits
+such strings may include only 1 LoC space each Transport Special
+Activity (4.3.2).
+Background. See “Duong Van Minh” below.
+126. Coup! Young Turks
+Thi, Ky, & Thieu wag the US dog: Each ARVN Govern Special
+Activity adds +2 Patronage.
+Conduct Coup Round: Victory? to Reset
+Monsoon: If this card next, no Sweep or March, Air Lift & Air
+Strike max 2.
+Tip. The bonus Patronage is +2 per each occasion of a Govern
+Special Activity, not per space.
+Background. See “Duong Van Minh” below.
+127. Coup! Nguyen Cao Ky
+Brash brass Ky: Pacification costs 4 Resources per Terror or level.
+Conduct Coup Round: Victory? to Reset
+Monsoon: If this card next, no Sweep or March, Air Lift & Air
+Strike max 2.
+Tip. The 4-Resource Pacification cost replaces the usual 3‑Resource
+cost, for both US and ARVN, in the following Support Phase and
+during the coming campaign.
+Background. See “Duong Van Minh” below.
+128. Coup! Nguyen Van Thieu
+Stabilizer: No effect.
+Conduct Coup Round: Victory? to Reset
+Monsoon: If this card next, no Sweep or March, Air Lift & Air
+Strike max 2.
+Tip. “Nguyen Van Thieu” cancels the effect of the previous leader.
+Background. See “Duong Van Minh” below.
+129. & 130. Coup! Failed Attempt
+Desertion: ARVN removes 1 in 3 of its cubes per space (round
+down). Place below any RVN Leader card.
+Conduct Coup Round: Victory? to Reset
+Monsoon: If this card next, no Sweep or March, Air Lift & Air
+Strike max 2.
+Tips. In contrast to the other Coup cards, “Failed Attempt” has
+an immediate not lasting effect. The ARVN Faction removes its
+cubes—adjusting Control accordingly (1.7)—before the Coup
+Round commences with the Victory Phase. After carrying out that
+effect, place the “Failed Attempt” card underneath the top card in the
+RVN Leader box, or just in the box if no card is yet there. “Failed
+Attempt” cancels only “Duong Van Minh” (resulting in no lingering
+effect at all). It leaves any other RVN Leader still in effect. Each 
+
+
+played “Failed Attempt” nevertheless counts as a card in the RVN
+Leader box (such as for Pivotal Event preconditions, 2.3.8).
+Background. See “Duong Van Minh” below.
