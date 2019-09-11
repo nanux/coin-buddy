@@ -7,8 +7,6 @@ $( document ).ready(function() {
     }
 })
 
-$("#result").hide();
-
 function renderPage() {
     let app = new Vue({
         el: '#content',
