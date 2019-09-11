@@ -1,4 +1,4 @@
-cards = [
+let cards = [
     {
         number: '1',
         title: 'Cicero',

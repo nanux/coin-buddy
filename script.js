@@ -1,7 +1,7 @@
-$( document ).ready(function() {
+$(document).ready(function () {
     var game = "falling_sky";
     if (game === "falling_sky") {
-        $.getScript("./assets/cards/falling_sky.js", renderPage);
+        $.getScript("./assets/cards/falling-sky.js", renderPage);
     } else {
         $.getScript("./assets/cards/gandhi.js", renderPage);
     }
@@ -59,6 +59,10 @@ function renderPage() {
                     app.cardText2 = '';
                     app.cardFlavor2 = '';
                 }
+            },
+            changeGame: function (event) {
+                var game = event.target.name;
+                console.log(game);
             }
         }
     })

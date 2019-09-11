@@ -1,4 +1,4 @@
-const cards = [
+let cards = [
     {
         number: '1',
         title: 'CGandhi',

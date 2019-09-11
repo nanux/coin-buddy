@@ -29,6 +29,15 @@
           <div class="col">
             <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
             <button type="submit" class="btn btn-primary" id="searchButton" v-on:click="updateCard">Search</button>
+              <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton"
+                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Game
+              </button>
+              <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <a class="dropdown-item" href="#" v-on:click="changeGame" name="fire-in-the-lake">Fire in the Lake</a>
+                <a class="dropdown-item" href="#" v-on:click="changeGame" name="falling-sky">Falling Sky</a>
+                <a class="dropdown-item" href="#" v-on:click="changeGame" name="gandhi">Gandhi</a>
+              </div>
           </div>
         </div>
       </form>
