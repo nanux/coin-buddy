@@ -8,64 +8,71 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="assets/bootstrap.min.css">
+  <link href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/litera/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-D/7uAka7uwterkSxa2LwZR7RJqH2X6jfmhkJ0vFPGUtPyBMF2WMq9S+f9Ik5jJu1" crossorigin="anonymous">
 
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
   <title>COIN Buddy | Cards</title>
 </head>
 
 <body>
-  <div class="container mt-3">
+  <div class="container mt-3" id="content">
     <div class="row">
 
       <form>
         <div class="form-row pl-2">
           <div class="col">
-            <input type="number" class="form-control" id="cardNumberInput" aria-describedby="cardNumber" placeholder="Card number">
+            <input type="number" class="form-control" id="cardNumberInput" aria-describedby="cardNumber"
+              placeholder="Card number" pattern="[0-9]*" inputmode="numeric">
           </div>
           <div class="col">
             <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
-            <button type="submit" class="btn btn-primary" id="searchButton">Search</button>
+            <button type="submit" class="btn btn-primary" id="searchButton" v-on:click="updateCard">Search</button>
           </div>
         </div>
       </form>
     </div>
     <hr />
     <div class="row" id="result">
-
-      <div class="card" style="width: 40rem">
+      <div class="card" id="card-result" style="width: 40rem">
         <div class="card-body">
-          <h5 class="card-title" id="cardTitle">Card title</h5>
-          <h6 class="card-subtitle mb-2 text-muted" id="cardFactions">Card precedence</h6>
-        <div class="card-body bg-light">
-          <h6 class="card-subtitle mb-2 text-muted" id="cardFlavor">Card subtitle</h6>
-          <p class="card-text" id="cardText">Card text</p>
+          <h2 class="card-title" id="cardTitle">{{ cardTitle }}</h2>
+          <h6 class="card-subtitle mb-2 text-muted" id="cardFactions">{{ cardFactions }}</h6>
+          <div class="card-body bg-light">
+            <h6 class="card-subtitle mb-2 text-muted" id="cardFlavor">{{ cardFlavor }}</h6>
+            <p class="card-text" id="cardText">{{ cardText }}</p>
+          </div>
+          <div class="card-body bg-secondary text-light" id="secondVersion"  v-if="secondVersion">
+            <h6 class="card-subtitle mb-2" id="cardFlavor2">{{ cardFlavor2 }}</h6>
+            <p class="card-text" id="cardText2">{{ cardText2 }}</p>
+          </div>
+          <div class="card-body">
+            <h6 class="card-subtitle mb-2 text-muted">Card tip</h6>
+            <p class="card-text" id="cardTip">{{ cardTip }}</p>
+          </div>
+          <hr />
+          <div class="card-body">
+            <h6 class="card-subtitle mb-2 text-muted">Background</h6>
+            <p class="card-text" id="cardBackground">{{ cardBackground }}</p>
+          </div>
+          <div class="card-body">
+            <p class="card-text text-secondary text-right" id="cardNumber">{{ cardNumber }}</p>
+          </div>
         </div>
-        <div class="card-body bg-secondary text-light" id="secondVersion">
-            <h6 class="card-subtitle mb-2" id="cardFlavor2">Card subtitle</h6>
-            <p class="card-text" id="cardText2">Card text</p>
-        </div>
-        <div class="card-body">
-          <h6 class="card-subtitle mb-2 text-muted">Card tip</h6>
-          <p class="card-text" id="cardTip">Card tip</p>
-        </div>
-        <hr />
-        <div class="card-body">
-           <h6 class="card-subtitle mb-2 text-muted">Background</h6>
-          <p class="card-text" id="cardBackground">Card background</p>
-        </div>
-        <div class="card-body">
-           <p class="card-text text-secondary text-right" id="cardNumber">Card number</p>
-         </div>
       </div>
     </div>
   </div>
-  </div>
   <!-- Optional JavaScript -->
   <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+  <script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+  crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
     crossorigin="anonymous"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-    crossorigin="anonymous"></script>
-  <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/bootstrap.min.js"></script>
+  <!-- <script src="falling_sky.js"></script> -->
   <script src="script.js"></script>
 </body>
 
