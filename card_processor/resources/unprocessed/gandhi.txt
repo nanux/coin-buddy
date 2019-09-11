@@ -88,8 +88,8 @@ of violence, Gandhi feared that many had not fully embraced
 nonviolence and called an end to the campaign, a decision he
 was widely criticized for.
 EVENT TEXT AND NOTES
-34 Gandhi ~ Playbook
-© 2019 GMT Games, LLC
+
+
 7. Jawaharlal Nehru Rises to Prominence
 Con Raj Mus Rev
 Congress factions squabble: In spaces with Congress Activists,
@@ -188,9 +188,9 @@ Sarojini Naidu took his place. She led protesters to the gates
 where they were attacked by police with clubs. Several were
 killed and hundreds were wounded. Newspaper reports of the
 violence (Event 8) brought into question the legitimacy of British rule in India.
-35
-© 2019 GMT Games, LLC
-Gandhi ~ Playbook
+
+
+
 13. Ottoman Collapse Creates a Vacuum
 Mus Raj Con Rev
 Muslim community in India agitates for independence: Shift
@@ -279,8 +279,8 @@ Background. In 1929, Batukeshwar Dutt and Bhagat Singh
 (Card 21) threw leaflets and two bombs into the Central Legislative Assembly building in New Delhi to avenge the death of
 Lala Lajpat Rai (Card 47). Both men were quickly arrested, put
 on trial, and sentenced to life in prison.
-36 Gandhi ~ Playbook
-© 2019 GMT Games, LLC
+
+
 20. Jugantar Formed in Bengal
 Rev Raj Mus Con
 Revolutionary terrorists: In West Bengal and East Bengal,
@@ -365,9 +365,9 @@ released a statement in 1917 that “the policy of His Majesty’s
 Government is that of the increasing association of Indians in
 every branch of the administration.” It was criticized by both
 British imperialists and Indian leaders alike.
-37
-© 2019 GMT Games, LLC
-Gandhi ~ Playbook
+
+
+
 26. Rowlatt Act Employed in Force
 Raj Con Rev Mus
 Government suspends civil liberties: In 2 spaces, arrest 1 Activist for every cube.
@@ -452,8 +452,8 @@ any Protest and Unrest markers from his space.
 Gandhi’s first nonviolent campaign in India: Move Gandhi to
 Bihar (unless in Jail), then place a Protest marker (if none) and
 up to 3 Activists there.
-38 Gandhi ~ Playbook
-© 2019 GMT Games, LLC
+
+
 Background. Gandhi’s first trial of the
 nonviolent techniques he had developed
 during twenty years in South Africa
@@ -545,9 +545,9 @@ and the arrest of over 100,000 activists. The Muslim League
 instead collaborated with the British, and issued the Lahore
 Resolution (Card 38) in 1940, declaring that it would seek a
 separate state for Muslims.
-39
-© 2019 GMT Games, LLC
-Gandhi ~ Playbook
+
+
+
 37. Delhi Proposals Foster Muslim Independence
 Mus Raj Con Rev
 Muslims granted separate representation: Place a Muslim State
@@ -638,8 +638,8 @@ remarking that General Dyer’s actions that day had been correct.
 Many held him responsible for the massacre, including Udham
 Singh. In 1940, Singh traveled to London, cornered O’Dwyer
 outside Caxton Hall, and shot him dead.
-40 Gandhi ~ Playbook
-© 2019 GMT Games, LLC
+
+
 43. Textile Workers Strike
 Rev Raj Con Mus
 Anti-Communist backlash cuts strike short: In up to 2 spaces,
@@ -732,9 +732,9 @@ the very bottom of society. Such a move was controversial at the
 time. Ambedkar (Card 63) felt that the name change obscured
 the suffering that untouchables regularly endured and preferred
 the term dalit. Today, the term harijan is considered offensive.
-41
-© 2019 GMT Games, LLC
-Gandhi ~ Playbook
+
+
+
 49. Independence Day Defiantly Declared
 Raj Con Mus Rev
 An empty gesture: In up to 2 spaces, remove 1 Protest or 1 Unrest
@@ -812,8 +812,8 @@ One notable exception was the large state of Hyderabad. Indian
 troops invaded Hyderabad in 1948, resulting in the conquest and
 annexation of the state and the deaths of tens (perhaps hundreds)
 of thousands.
-42 Gandhi ~ Playbook
-© 2019 GMT Games, LLC
+
+
 55. The Salt March
 Con Raj Mus Rev
 ‘It’s going to take a great deal more than a pinch of salt to
@@ -906,9 +906,9 @@ T NP Muslim League. This Event is not effective (8.8.3) for
 NP Muslim League.
 T NP Revolutionaries. This Event is not effective (8.8.3) for
 NP Revolutionaries.
-43
-© 2019 GMT Games, LLC
-Gandhi ~ Playbook
+
+
+
 60. Gandhi’s Young India Newspaper
 Con Rev Mus Raj
 Indian free press restricted by the British: Remove all Activists
@@ -1003,8 +1003,8 @@ apart. Calcutta, the site of communal bloodshed in 1946 (Card
 a four day fast that halted the violence.
 Non-player Instructions.
 T NP Raj. This Event is not effective (8.8.3) for NP Raj.
-44 Gandhi ~ Playbook
-© 2019 GMT Games, LLC
+
+
 67. Land Reform Demanded
 Rev Raj Con Mus
 Indian aristocracy support the Raj: Shift up to 3 States each
@@ -1104,9 +1104,9 @@ Montagu-Chelmsford reforms, but also expanded British power
 through the Rowlatt Act to curb the growing nationalist movement. The massacre at Jallianwala Bagh in 1919, and subsequent
 events during the Non-Cooperation Campaign that followed,
 marred the final years of his service which ended in 1921.
-45
-© 2019 GMT Games, LLC
-Gandhi ~ Playbook
+
+
+
 74. British Viceroy Lord Reading
 The Imperialist: The first space selected for Raj Operations
 is free.
