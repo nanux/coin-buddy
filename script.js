@@ -1,16 +1,20 @@
 $(document).ready(function () {
-    var game = "falling_sky";
-    if (game === "falling_sky") {
-        $.getScript("./assets/cards/falling-sky.js", renderPage);
-    } else {
-        $.getScript("./assets/cards/gandhi.js", renderPage);
-    }
+    $.getJSON("assets/cards/falling-sky.json", function (data) {
+        renderPage(data);
+    });
 })
 
-function renderPage() {
+let supportedGames = [
+    { file: 'falling-sky', name: 'Falling Sky' },
+    { file: 'fire-in-the-lake', name: 'Fire in the Lake' },
+    { file: 'gandhi', name: 'Gandhi' }
+]
+
+function renderPage(cards) {
     let app = new Vue({
         el: '#content',
         data: {
+            game: 'Falling Sky',
             cardTitle: '',
             cardFlavor: '',
             cardText2: '',
@@ -20,7 +24,8 @@ function renderPage() {
             cardTip: '',
             cardBackground: '',
             cardNumber: '',
-            secondVersion: false
+            secondVersion: false,
+            cards: cards
         },
         methods: {
             updateCard: function (event) {
@@ -31,7 +36,7 @@ function renderPage() {
                     return;
                 }
 
-                const results = cards.filter(card => card.number == cardNumber);
+                const results = app.cards.filter(card => card.number == cardNumber);
 
                 let result;
                 if (results.length > 0) {
@@ -61,8 +66,22 @@ function renderPage() {
                 }
             },
             changeGame: function (event) {
-                var game = event.target.name;
-                console.log(game);
+                let game = event.target.name;
+
+                var sg = supportedGames.filter((g) => g.file === game);
+
+                if (sg.length != 1) {
+                    console.error("This is an unsupported game");
+                    return;
+                }
+                $("#result").hide();
+                $("#cardNumberInput").val("");
+                this.game = sg[0].name;
+                // TODO potentially insecure
+                $.getJSON("assets/cards/" + game + ".json").then((response) => {
+                    this.cards = response;
+                });
+
             }
         }
     })
