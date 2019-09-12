@@ -19,16 +19,14 @@
 <body>
   <div class="container mt-3" id="content">
     <div class="row">
-
       <form>
-        <div class="form-row">
-          <div class="form-group col-md-6">
+        <div class="form-row pl-2">
+          <div class="col">
             <input type="number" class="form-control" id="cardNumberInput" aria-describedby="cardNumber"
               placeholder="Card number" pattern="[0-9]*" inputmode="numeric">
           </div>
-          <div class="form-group">
-            <!-- <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small> -->
-            <button type="submit" class="btn btn-primary" id="searchButton" v-on:click="updateCard">Search</button>
+          <div class="col">
+            <button type="submit" class="btn btwn-primary" id="searchButton" v-on:click="updateCard">Search</button>
           </div>
         </div>
       </form>
@@ -63,14 +61,16 @@
       </div>
     </div>
     <div class="row mt-4">
-      <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
-        aria-haspopup="true" aria-expanded="false">
-        {{ game }}
-      </button>
-      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-        <a class="dropdown-item" href="#" v-on:click="changeGame" name="fire-in-the-lake">Fire in the Lake</a>
-        <a class="dropdown-item" href="#" v-on:click="changeGame" name="falling-sky">Falling Sky</a>
-        <a class="dropdown-item" href="#" v-on:click="changeGame" name="gandhi">Gandhi</a>
+      <div class="col">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+          aria-haspopup="true" aria-expanded="false">
+          {{ game }}
+        </button>
+        <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+          <a class="dropdown-item" href="#" v-on:click="changeGame" name="fire-in-the-lake">Fire in the Lake</a>
+          <a class="dropdown-item" href="#" v-on:click="changeGame" name="falling-sky">Falling Sky</a>
+          <a class="dropdown-item" href="#" v-on:click="changeGame" name="gandhi">Gandhi</a>
+        </div>
       </div>
     </div>
   </div>
