@@ -87,7 +87,6 @@ the building ablaze, killing 23. In response to the escalation
 of violence, Gandhi feared that many had not fully embraced
 nonviolence and called an end to the campaign, a decision he
 was widely criticized for.
-EVENT TEXT AND NOTES
 
 
 7. Jawaharlal Nehru Rises to Prominence
@@ -812,8 +811,6 @@ One notable exception was the large state of Hyderabad. Indian
 troops invaded Hyderabad in 1948, resulting in the conquest and
 annexation of the state and the deaths of tens (perhaps hundreds)
 of thousands.
-
-
 55. The Salt March
 Con Raj Mus Rev
 ‘It’s going to take a great deal more than a pinch of salt to
@@ -836,7 +833,7 @@ he would postpone the march. Predictably, the letter was ignored. Gandhi
 planned the route carefully so that it
 would take roughly three weeks to walk the 240 miles to the
 ocean. He left his ashram with 80 followers and arrived with
-50,000. The act of civil disobedience itself, gathering salt that
+ 50,000. The act of civil disobedience itself, gathering salt that
 had collected in shallow pools along the water’s edge, was so
 simple that anyone could participate. Moreover, salt was important to every Indian: it cut across ethnic and religious divisions.
 To defy the British by collecting salt was both highly symbolic,

@@ -113,7 +113,9 @@ let getAvatar = function (faction) {
     } else if (faction.startsWith("Be")) {
         avatar = "belgae"
     }
-
-
-    return "assets/img/avatar_" + avatar + ".png"
+    if (avatar !== "") {
+        return "assets/img/avatar_" + avatar + ".png"
+    } else {
+        return ""
+    }
 }

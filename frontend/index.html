@@ -38,7 +38,8 @@
           <h1 class="card-title text-center" id="cardTitle">{{ cardTitle }}</h1>
           <h6 class="card-subtitle mb-2 text-muted text-center" id="cardFactions">
             <span v-for="(item, index) in cardFactions">
-                <img v-bind:src='item.avatar' width="40" height="60" alt="item.faction" />
+                <img v-bind:src='item.avatar' width="40" height="60" alt="item.faction" v-if="item.avatar" />
+                <span v-if="!item.avatar">{{item.faction}}</span>
                 <span v-if="index != cardFactions.length - 1"> | </span> 
             </span>
           </h6>
@@ -50,7 +51,7 @@
             <h6 class="card-subtitle mb-2" id="cardFlavor2">{{ cardFlavor2 }}</h6>
             <p class="card-text" id="cardText2">{{ cardText2 }}</p>
           </div>
-          <div class="card-body">
+          <div class="card-body" v-if="cardTip">
             <h6 class="card-subtitle mb-2 text-muted">Card tip</h6>
             <p class="card-text" id="cardTip">{{ cardTip }}</p>
           </div>

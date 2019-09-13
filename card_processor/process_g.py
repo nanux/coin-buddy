@@ -6,10 +6,10 @@ card = None
 cards = []
 state = None
 
-with open("games_unprocessed/falling_sky.txt", "r") as f:
+with open("resources/unprocessed/gandhi.txt", "r") as f:
     for line in f:
         # has title
-        m = re.search("(\d+)\. (.*) (\w{2,3}) (\w{2,3}) (\w{2,3}) (\w{2,3})", line)
+        m = re.search("^(\d{1,2})\. (.*)", line)
         if (m is not None):
 
             state = "title"
@@ -17,15 +17,25 @@ with open("games_unprocessed/falling_sky.txt", "r") as f:
             if card is not None:
                 cards.append(card)
                 card = None
+        
+            card = {"number": m.group(1), "title": m.group(2)}
+            continue
 
             card = {"number": m.group(1), "title": m.group(2),
             "first_faction": m.group(3), "second_faction": m.group(4),
             "third_faction": m.group(5), "fourth_faction": m.group(6)}
 
-        m = re.search("CAPABILITY", line)
-        if (m is not None):
-            card["is_capability"] = True
-            continue
+        m = re.search("^(\w{2,3}) (\w{2,3}) (\w{2,3}) (\w{2,3})$", line)
+        if m is not None:
+            card["first_faction"] = m.group(1)
+            card["second_faction"] = m.group(2)
+            card["third_faction"] = m.group(3)
+            card["fourth_faction"] = m.group(4)
+
+        # m = re.search("CAPABILITY", line)
+        # if (m is not None):
+        #     card["is_capability"] = True
+        #     continue
 
         m = re.search("(Tip[s]?\.) (.*)", line)
         if (m is not None):
@@ -36,6 +46,13 @@ with open("games_unprocessed/falling_sky.txt", "r") as f:
         if (m is not None):
             state = "background"
             card["background"] = m.group(2)
+
+
+        m = re.search("^Non-player Instructions.", line)
+        if (m is not None):
+            state = "non_player"
+            card['non_player'] = ""
+            continue
 
         elif(state == "text"):
             m = re.search("^(.*)\: (.*)", line)
@@ -62,6 +79,11 @@ with open("games_unprocessed/falling_sky.txt", "r") as f:
         elif (state == "tips"):
             line = line.rstrip('\n\r')
             card["tips"] = f"{card['tips']} {line}"
+            continue
+
+        elif (state == "non_player"):
+            line = line.rstrip('\n\r')
+            card["non_player"] = f"{card['non_player']} {line}"
             continue
 
         m = re.search("^(.*)\: (.*)", line)
