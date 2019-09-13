@@ -9,7 +9,7 @@ state = None
 with open("resources/unprocessed/fire_in_the_lake.txt", "r") as f:
     for line in f:
         # has title
-        m = re.search("^(\d{1,2})\. (.*) (\w)(\w)(\w)(\w) (\d{4})", line)
+        m = re.search("^(\d{1,3})\. (.*) (\w)(\w)(\w)(\w) (\d{4})", line)
         if (m is not None):
 
             state = "title"
