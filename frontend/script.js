@@ -46,7 +46,21 @@ function renderPage(cards) {
                     return;
                 }
 
-                const factions = result.first_faction + " | " + result.second_faction + " | " + result.third_faction + " | " + result.fourth_faction;
+
+                const factions = [{
+                    faction: result.first_faction,
+                    avatar: getAvatar(result.first_faction)
+                }, {
+                    faction: result.second_faction,
+                    avatar: getAvatar(result.second_faction)
+                }, {
+                    faction: result.third_faction,
+                    avatar: getAvatar(result.third_faction)
+                }, {
+                    faction: result.fourth_faction,
+                    avatar: getAvatar(result.fourth_faction)
+                }]
+
                 app.cardTitle = result.title;
                 app.cardFactions = factions;
                 app.cardText = result.text;
@@ -85,4 +99,21 @@ function renderPage(cards) {
             }
         }
     })
+}
+
+let getAvatar = function (faction) {
+    let avatar = ""
+
+    if (faction.startsWith("Ro")) {
+        avatar = "romans"
+    } else if (faction.startsWith("Ae")) {
+        avatar = "aedui"
+    } else if (faction.startsWith("Ar")) {
+        avatar = "arverni"
+    } else if (faction.startsWith("Be")) {
+        avatar = "belgae"
+    }
+
+
+    return "assets/img/avatar_" + avatar + ".png"
 }

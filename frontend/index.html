@@ -35,8 +35,13 @@
     <div class="row" id="result" style="display: none;">
       <div class="card" id="card-result" style="width: 40rem">
         <div class="card-body">
-          <h2 class="card-title" id="cardTitle">{{ cardTitle }}</h2>
-          <h6 class="card-subtitle mb-2 text-muted" id="cardFactions">{{ cardFactions }}</h6>
+          <h1 class="card-title text-center" id="cardTitle">{{ cardTitle }}</h1>
+          <h6 class="card-subtitle mb-2 text-muted text-center" id="cardFactions">
+            <span v-for="(item, index) in cardFactions">
+                <img v-bind:src='item.avatar' width="40" height="60" alt="item.faction" />
+                <span v-if="index != cardFactions.length - 1"> | </span> 
+            </span>
+          </h6>
           <div class="card-body bg-light">
             <h6 class="card-subtitle mb-2 text-muted" id="cardFlavor">{{ cardFlavor }}</h6>
             <p class="card-text" id="cardText">{{ cardText }}</p>
