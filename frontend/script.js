@@ -7,7 +7,8 @@ $(document).ready(function () {
 let supportedGames = [
     { file: 'falling-sky', name: 'Falling Sky' },
     { file: 'fire-in-the-lake', name: 'Fire in the Lake' },
-    { file: 'gandhi', name: 'Gandhi' }
+    { file: 'gandhi', name: 'Gandhi' },
+    { file: 'distant-plain', name: 'Distant Plain' }
 ]
 
 function renderPage(cards) {
