@@ -14,12 +14,22 @@ def process_card_text(card_text):
     # (JIEDDO website)
 
     card = {}
-    m = re.match("(\d{1,2}) (.*) (\w)(\w)(\w)(\w)", card_text)
+
+    print("%r" % card_text)
+
+
+    m = re.search(r"(\d{1,2})\. (.+) ([CTWG])([CTWG])([CTWG])([CTWG])", card_text)
     if m is not None:
         card['number'] = m.group(1)
         card['title'] = m.group(2)
         card['first_faction'] = m.group(3)
-
+        card['second_faction'] = m.group(4)
+        card['third_faction'] = m.group(5)
+        card['fourth_faction'] = m.group(6)
+    
+    m = re.search(r"\n(.+): (.+)", card_text)
+    if m is not None:
+        print(m.group(1))
     return card
 
 

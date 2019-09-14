@@ -2,8 +2,10 @@
 COALITION CAPABILITIES
 Overhead intel: Each Coalition Sweep Op, Coalition may Activate
 another 3 Guerrillas in any 1 space.
+
 Competition for targeting assets: Air Strike may not accompany
 Sweep.
+
 The Coalition had technological superiority over the insurgents,
 especially in the air. Reconnaissance and surveillance was carried
 out by assets ranging from a 4-pound airplane tossed in the air by a
@@ -14,9 +16,11 @@ COALITION CAPABILITIES
 Sanctuary denied: In 1 space
 per Air Strike, 1 target piece
 may be Under-ground and ignored for Islamabad.
+
 Collateral damage: Each Air
 Strike space adds +1 Taliban
 Resource.
+
 The Predator Unmanned Aerial
 Vehicle (UAV) was used by the
 Coalition in Afghanistan from
@@ -31,15 +35,19 @@ States. (Singer, p. 32-35)
 COALITION CAPABILITIES
 Drone war: Air Strikes may remove up to 2 Active Guerrillas (or 1
 Base last) per space.
+
 Controversy: Air Strikes affect only 1 space.
+
 After the Predator came the Reaper UAV, first fielded in Afghanistan in 2009. It was bigger, faster, and more heavily armed than the
 Predator. Still faster, stealthier, and more heavily armed models were
 being developed. (Singer, p. 116)
 4. #2 Is Dead CTWG
 Leadership loss: Remove a Taliban piece from Pakistan. Subtract a
 die roll from Taliban Resources.
+
 Martyr: Place a Taliban piece in Pakistan. Add a die roll to Taliban
 Resources
+
 For every #1 insurgent leader, there is a #2 – and several of these
 were eliminated in Afghanistan or Pakistan by drone strikes (because
 there is always a #3 to take #2’s place). Sometimes these drone strikes
@@ -49,8 +57,10 @@ intensifying feeling against the Coalition. (Singer, p.399)
 COALITION CAPABILITIES
 Eye in the Sky: Taliban March costs +1 extra Resource per Space,
 including LoCs.
+
 Bomb kites and weather: Taliban March flips 1 Active Guerrilla
 Underground per card.
+
 Lightweight cameras and radars could be carried aloft by tethered
 balloons, to carry out constant surveillance of roads, passes, defiles
 or unobservable ground near a Coalition base or fighting position.
@@ -58,6 +68,7 @@ or unobservable ground near a Coalition base or fighting position.
 6. US-Pakistan Talks CTWG
 Feathers smoothed: Shift Islamabad 2 boxes toward Hostility.
 Frenemies: Shift Islamabad 2 boxes toward Sponsorship.
+
 There were many meetings between American and Pakistani government officials for them to bring pressure on the Taliban’s sanctuary
 in the Federally Administrated Tribal Areas (FATA) that form part
 of Pakistan’s border with Afghanistan. The Government of Pakistan,
@@ -71,8 +82,10 @@ DIA “(New) Great Game”)
 COALITION CAPABILITIES
 Net-centric warfare: 1 piece removed each Coalition Assault space
 may be Underground.
+
 Ignorance of human terrain: Assault to remove any Bases must
 include any Govt cube.
+
 The concept of “network-centric warfare” seemed to be borne out
 in the early stages of the war in Afghanistan, when small groups
 or even individual Special Forces operators could access volumes
@@ -84,8 +97,10 @@ learn from the “human terrain” through which troops are moving.
 8. SEAL Team 6 CGTW
 Taliban ally loses leader: Remove a Taliban piece from
 Pakistan. Taliban Resources -6.
+
 Sovereignty violated: Shift
 Islamabad 2 boxes toward
+
 Sponsorship
 On May 2, 2011, members of
 the United States Naval Special
@@ -93,8 +108,6 @@ Warfare Development Group
 raided Osama bin Laden’s compound in Abbottabad, Pakistan
 and killed him. His elimination
 was the fulfillment of a major 
-
-
 objective of the “Global War on Terror”, and a blow to al-Qaeda’s
 organizational effectiveness. Items seized in the raid yielded significant intelligence on the status of the organization. The Pakistani
 Government, which had not been informed of the raid, protested the
@@ -102,8 +115,10 @@ American incursion.
 9. Special Forces CGTW
 Raids: Coalition removes 2 Insurgent pieces from within 1 space
 of its Troops.
+
 Incursion suspected: If Coalition adjacent to Pashtun Pakistan, shift
 Islamabad 2 boxes toward Sponsorship.
+
 The Durand Line which forms the border between Afghanistan and
 Pakistan is indistinct in many places, and it happened that Coalition
 Special Operations Forces troops “accidentally on purpose” wandered across it to observe insurgent camps and hit them with UAV
@@ -112,9 +127,12 @@ sensitive about these events.
 10. Partnering Policy CGWT
 Close knit: Coalition or Government executes any 2 free Limited
 Operations.
+
 Unraveled: Until Propaganda, no Coalition Operations that would
 spend Govt Resources.
+
 MOMENTUM
+
 Coalition trainers and advisors worked as mentors to the Afghan
 National Army (ANA) and Police (ANP) from their re-creation
 in 2002. As progressively larger numbers of recruits joined, and
@@ -136,8 +154,10 @@ Executing Faction remains Eligible. Until Propaganda, each Assault
 rolls a die for each space.
 1-4 Detainees turned: Replace each piece removed with a Govt
 cube.
+
 5-6 Recidivism: Removed Guerrillas move to owner’s Base if possible.
 MOMENTUM
+
 For some time, the United States operated the Strategic Release
 Program, under which a limited number of influential insurgent commanders are paroled from detention, in exchange for information or
 a commitment to pursue reconciliation with the Government, and on
@@ -146,6 +166,7 @@ the condition that they would not take up arms again. (Sieff)
 COALITION CAPABILITIES
 Local police: Coalition after Training adds 1 Police free from anywhere to any 1 space with Coalition Troops.
 Police recruits unsteady: Each Coalition Training places no more
+
 than 1 Police per space.
 The concept of Village Stability Operations was to tie together building local defense forces, strengthening or reviving local governance,
 and exploiting opportunities for economic development at the village
@@ -160,9 +181,11 @@ Progress, p. 64-66)
 Drive CWTG
 “We mean it this time”: Until
 Prop, Govern transfers no Patronage.
+
 MOMENTUM
 Game the system: Government
 selects Troop or Police targets
+
 for a free Suborn in 1 space and
 adds +3 Patronage.
 Widespread corruption, especially bribery, was a major
@@ -177,8 +200,10 @@ passim; US DoD Report on Progress, p. 78-80)
 14. Economic Project CWTG
 Erode networks: In each space with cubes, replace an Insurgent
 Faction’s Base with its Guerrilla.
+
 Civil-military friction misdirects aid: An Insurgent gains +3 Resources per space with both a COIN Base and its piece.
 Billions of dollars were spent in Afghanistan in the attempt to
+
 re-activate the country’s moribund civilian economy. But such
 large amounts of money went astray as often as they benefitted or
 stabilized communities, due to such factors as poor police and administrative leadership, corruption, theft, abuse of civilians, or the
@@ -186,8 +211,10 @@ inability of security forces to protect Non-Government Organizations. (Moyar, p.
 15. One Tribe at a Time CWTG
 Engagement: In a COIN-Control Province, remove all Guerrillas
 and buy any Civic Action desired.
+
 Entrepreneur warlord: In an Uncontrolled Province, replace up to
 3 Govt or Taliban pieces with any Warlord pieces.
+
 In 2009, a United States Special Forces member wrote a paper with
 the title “One Tribe at a Time”, emphasizing the basic role that
 tribes play in Afghan society, and proposing the development of
@@ -205,10 +232,12 @@ outside tribal structures. (Meinshausen; Johnson; Giustozzi p. 16)
 16. Amnesty CWGT
 Cash in now: Each Support or
 COIN-Control space, pay –1
+
 Govt Resource to remove a
 Guerrilla.
 OK to be me: Replace any 2
 Insurgent pieces with the other
+
 Insurgent’s pieces of the same
 type.
 There were infrequent amnesty
@@ -223,9 +252,11 @@ on Progress p. 81-82)
 17. NATO CWGT
 ISAF bolstered: Move all Troop
 Casualties or, if none, removed
+
 Coalition Troops to Available.
 Command strictures: Until
 Prop, Coalition Ops, Air Lift,
+
 Surge only where already Coalition.
 MOMENTUM
 Dozens of countries from
@@ -240,8 +271,10 @@ offensive military operations. (Collins, p. 64; Moyar, p. 205)
 COALITION CAPABILITIES
 Development detachments: Coalition Training Operation may buy
 Civic Actions in 1 or 2 spaces.
+
 Defensive posture: Coalition Assault may target only 1 space per card.
 Provincial Reconstruction Teams (PRTs) were created by the United
+
 States Army as small joint civil-military organizations with the triple
 aim of creating local security, fostering better cooperation between
 different agencies working in the same area, and promoting reconstruction. By 2011, there were 27 PRTs operating in the majority of
@@ -254,8 +287,10 @@ within the concept. (Collins, p. 66-67; Moyar, p. 200)
 19. Al-Qaeda TCGW
 Jus ad bellum: Govt Resources +9. Aid +9. Coalition executes a
 free Surge
+
 Helpmate: Taliban free Terror or Attack in each Afghan space with
 Underground Taliban. No Guerrillas Activate
+
 In the days of the Taliban Government (1996-2001), al-Qaeda
 established facilities in Afghanistan for its members and leaders to
 train, meet, and plan operations. In return, the Taliban received large
@@ -266,13 +301,14 @@ for Al-Qaeda’s attacks on US targets, and it was their refusal to do so
 after 9/11 that led to the launch of “Operation Enduring Freedom”.
 (Afsar; Collins p. 41-52) With the Coalition in Afghanistan, al-Qaeda
 turned a part of its anti-US effort to insurgency there.
-20. Errant Air Strike
-TCGW
+20. Errant Air Strike TCGW
 Focus on ground war: Coalition executes a free Surge
 ignoring Control and without
+
 removing to Available.
 Wedding hit: Set a Province
 with Coalition and Taliban to
+
 Opposition. Place a Terror there
 In any given year of the conflict,
 the Taliban were responsible for
@@ -286,13 +322,16 @@ and Arab-language media.
 21. Operation Iraqi Freedom TCGW
 Flypaper: Taliban must remove a Base, a die roll of Guerrillas, and
 a die roll of Resources.
+
 Quagmire: Coalition removes 2 of its pieces from Available to
 Casualties and is Ineligible through next card.
+
 It was a common criticism that the invasion of Iraq in 2003 and the
 lengthy insurgency that followed it proved a fatal diversion from
 the US-led effort in Afghanistan. This was neither completely true
 nor false: the modest commitment of US forces to Afghanistan in
 2002-04 was not yet opposed by a strong Taliban insurgency, and
+
 the official focus was on rebuilding Afghan government and society
 and reconstituting its security forces. By 2005-06, the escalating
 demands of the Iraqi insurgency did prevent effective reinforcement
@@ -303,8 +342,10 @@ in Iraq permitted a significant “surge” of troops, aid, and resources.
 22. Border Incident TCWG
 Taliban insertion foiled: Remove any 3 Taliban Guerrillas in or
 adjacent to Pakistan.
+
 Pakistan furious: Shift Islamabad 2 boxes toward Sponsorship.
 Executing Faction remains Eligible
+
 
 
 Both Pakistan and Afghanistan maintained considerable forces in a
@@ -320,6 +361,7 @@ no more than 1 Coalition piece
 per space.
 Casualties mount: Each Taliban
 Attack removes a 3rd piece and
+
 Sabotages an adjacent empty
 LoC
 The Joint Improvised Explosive
@@ -331,15 +373,18 @@ insurgents’ use of IEDs, the leading cause of death or injury among
 Coalition troops in Afghanistan. JIEDDO adopted a mix of simple
 and complex methods: an example of the former was paving roads
 (which not only made roadside IEDs harder to conceal, but also
+
 improved the local economy and hence relations with the populace).
 (Kilcullen, Accidental Guerrilla, p. 99-102)
 24. US-Taliban Talks TCWG
 Selective fire: Until Propaganda, Taliban Operations may
 not remove Coalition pieces
+
 (mark).
 MOMENTUM
 No sudden moves: Until Propaganda, no Coalition Assault
 (mark).
+
 MOMENTUM
 Direct, official contact between
 representatives of the United
@@ -352,8 +397,10 @@ Meetings took place in Germany and Qatar, but progress was slow.
 25. Koran Burning TGCW
 Compensation: Remove any Terror markers desired from spaces
 with Coalition.
+
 Riots: Shift Kabul and a Province with Coalition pieces each 1 level
 toward Opposition.
+
 In February 2010, a number of Korans and other religious texts were
 accidentally burned by United States servicemen in an incinerator
 at Bagram Air Field north of Kabul. The ensuing riots in Afghan
@@ -362,8 +409,10 @@ provoked similar responses.
 26. MANPADS Scare TGCW
 False alarm—fly the friendly skies: Coalition Air Lifts any Troops
 among 5 spaces, then LimOps in 1, free.
+
 Whoosh!: Until Prop, Taliban may cancel (count as executed) any
 Air Lift or Air Strike for –1 Resource.
+
 MOMENTUM
 The Taliban had no anti-aircraft weapons except light automatic
 guns or rocket-propelled grenades, which could be effective against
@@ -375,6 +424,7 @@ late 1980s.
 27. Tehrik-i-Taliban Pakistan TGCW
 TTP attack in Pakistan: Shift Islamabad 2 boxes toward Hostility.
 TTP support Quetta Shura: Taliban place 2 pieces in or adjacent to
+
 Pakistan and add +3 Resources.
 The Tehrik-i-Taliban (TTP) or “Pakistan Taliban” was a religious
 extremist movement within Pakistan that was mainly active in the
@@ -385,6 +435,7 @@ the Army. (Kilcullen Accidental Guerrilla, p. 237-238)
 28. Karzai to Islamabad TGWC
 “I’m listening”: Shift Islamabad 2 boxes toward Hostility.
 “I hear you knocking but you can’t come in”: Taliban Resources
+
 +6. Government Ineligible through next card.
 The main diplomatic issue between Afghanistan and Pakistan has
 been the Durand Line, an artificial creation of the British Empire
@@ -398,6 +449,7 @@ skirmishes put both governments in a difficult position. (US DIA
 TALIBAN CAPABILITIES
 Threats resented: Taliban Terror shifts to Neutral not Opposition.
 Intimidation: Training places no more than 4 cubes per space
+
 During the Soviet-Afghan War, the mujaheddin would often leave
 “night letters” – literally a letter left at someone’s door at night to
 warn collaborators or to intimidate the population. In 2005 the Taliban revived this tactic with considerable success. (Collins, p. 73)
@@ -405,6 +457,7 @@ warn collaborators or to intimidate the population. In 2005 the Taliban revived 
 TALIBAN CAPABILITIES
 Ineffective: Taliban Terror in Kabul requires Activation of 2 Underground Guerrillas.
 Effective: Taliban Terror in Kabul costs 0 Resources and does not
+
 Activate the Guerrilla.
 Insurgents need to go where the people are, and a lot of them are in
 the main urban center of Kabul. The Taliban have been ingenious
@@ -417,6 +470,7 @@ government buildings. (Moreau; Giustozzi p. 70)
 TALIBAN CAPABILITIES
 Better VCP drills: Ambush Activates all Taliban in the space.
 VBIEDs: 1 Taliban Ambush
+
 space may use an Active Guerrilla. Place no Guerrilla in that
 space.
 The JIEDDO (see card 23)
@@ -432,8 +486,10 @@ principle means of keeping Taliban car bombs (vehicle-borne improvised explosive
 32. Haqqani TWCG
 Frictions with Quetta: Taliban remove a Base and 3 Guerrillas from
 Northwest Frontier.
+
 Taliban right hand: Taliban place a Base and 3 Guerrillas in or
 adjacent to Northwest Frontier.
+
 The Haqqani Network was an important insurgent organization based
 in Waziristan. It was allied with al-Qaeda, the Quetta Shura Taliban,
 and the Hezb-e-Islami front (an Afghan Islamist organization, see
@@ -443,8 +499,10 @@ irregular. (Kilcullen, Accidental Guerrilla, p. 48)
 TALIBAN CAPABILITIES
 Extremists expended: Taliban each Terror must remove a Taliban
 Guerrilla from 1 selected space.
+
 Willing martyrs: Taliban Terror removes 1 enemy piece (Faction’s
 Base last) from 1 of the Terror spaces, Coalition to Casualties.
+
 Beginning in 2006, the number of suicide bombings in Afghanistan
 increased rapidly, even as the technical failure rate for bombing
 attempts dropped. The tactic was effective in damaging targets but
@@ -452,10 +510,12 @@ of dimishing political effect because of the large numbers of civilian
 casualties that occurred in each bombing. Also it relied on foreign
 fighters brought into the theater: the majority of individual bombers
 were not Afghans. (Giustozzi, 108-109, 148-149)
+
 34. Accidental Guerrillas TWGC
 TALIBAN CAPABILITIES
 Easy come, easy go: Remove Taliban Guerrillas that Redeploy.
 Drawn in: After Coalition completes an Assault operation, Taliban
+
 may place a Guerrilla into any 1 of the Assault spaces.
 David Kilcullen’s 2009 book The Accidental Guerrilla explores
 in depth the problems posed by Western interventions to counter
@@ -467,18 +527,20 @@ local to their community, on the side resisting foreign invasion.
 35. Gulbuddin Hekmatyar TWGC
 Islamist infighting: Remove up to 3 Taliban pieces from 1 space.
 Hezb-e-Islami front: Place a Taliban Base and Guerrilla in a Neutral
+
 or Opposition Pashtun Province.
 Gulbuddin Hekmatyar is the leader of Hezb-e-Islami or “Party of
 Islam”, an important insurgent organization based in the Northwest
 Frontier Province and allied with the Quetta Shura Taliban. (Collins,
 p. 72) Coordination between them was loose, however. (Kilcullen,
 Accidental Guerrilla, p. 48)
-36. Mullah Omar
-TWGC
+36. Mullah Omar TWGC
 Taliban leader killed: Flip all
 Taliban Guerrillas to Active.
+
 Islamist unifier: Next Support
 phase, Sharia also allowed if
+
 Uncontrolled and any Taliban.
 MOMENTUM
 Mullah Mohammad Omar is
@@ -492,8 +554,10 @@ shock to the group. (Dressler, p. 1-2; Collins, p. 72)
 37. Afghan Commandos GCTW
 Surprise strike: Govt moves any 1-4 Govt Troops to a space. They
 then free Sweep and free Assault there.
+
 Flashy forces dissipate scarce resources: Govt Resources -6. Aid
 -6. Executing Faction remains Eligible.
+
 The Afghan National Army Order of Battle includes a commando
 battalion in each of its six corps, plus a separate Special Operations
 Command of three commando brigades and a Special Forces brigade, trained along US lines. The first commando battalions became
@@ -504,8 +568,10 @@ Progress p. 24, 32)
 38. Night Raids GCTW
 Effective tactics: Remove all Insurgent Bases from any 2 spaces
 with Coalition Troops.
+
 Kabul defends privacy: Government free Governs in an Afghan
 Support space, ignoring Control and Coalition.
+
 “Night raids” were a tactic used mostly by US Special Forces members to kill or capture individuals on the “Joint Prioritized Effects
 List” of important insurgent commanders and organizers. Because
 these operations involved sudden night-time forced entries into
@@ -520,6 +586,7 @@ Government’s knowledge and approval.
 39. Trilateral Summit GCTW
 US spurs Pak-Afghan ties: Shift Islamabad 1 box toward Hostility.
 Double game: Shift Islamabad 2 boxes toward Sponsorship. Aid
+
 +3. Patronage +3.
 The United States would have much preferred to see stable and
 productive relations between Afghanistan and Pakistan, its two
@@ -529,16 +596,21 @@ on Progress, p. 82)
 40. Line Item GCWT
 Congress appropriates: Add the lesser of Aid or +15 to Government
 Resources.
+
 Cuts: Cut Aid to half its level (round down). Executing Faction
 remains Eligible
+
 To quote Ronald E. Neumann, then United States Ambassador to
 Afghanistan, in 2005: “Iraq and hurricane relief won, and we lost.”
 (Collins, p. 78)
+
 41. NATO Politics GCWT
 Alliance commitment: Coalition returns up to 3 pieces that were
 removed from play to Available.
+
 Publics dubious of war aims: Remove any 1 Coalition Troops cube
 from play.
+
 In the early stages of the war, the governments of various NATO
 countries found it relatively easy politically to send contingents
 of troops and aid workers to help in reconstruction. As casualties
@@ -550,10 +622,12 @@ Afghanistan.
 42. NGOs GCWT
 Stabilization: For every 10 Aid
 (round down) shift a COIN
+
 Control space 1 level toward
 Support.
 Poor auditing: Transfer 1 in 5
 Aid (round down) to Patronage
+
 Non-Governmental Organizations (NGOs) were critical
 conduits of non-military aid
 and support to Afghanistan.
@@ -568,8 +642,10 @@ government corruption. (Giustozzi, 105-107)
 43. Pakistani Offensive GTCW
 Militant hunt: Shift Islamabad 2 boxes toward Hostility. Remove
 2 Taliban pieces from Pakistan.
+
 All show: Shift Islamabad 1 box toward Sponsorship. Executing
 Faction remains Eligible.
+
 Coalition forces operating near the border with Pakistan were not
 able to achieve consistent interoperability with the Pakistani Army.
 However, the Government of Pakistan was acutely aware of the
@@ -578,8 +654,7 @@ from its territory, from Baluchi separatists and the Quetta Shura
 Taliban to the Pakistani Taliban. It launched a number of offensives
 into the north-west, sometimes taking heavy casualties. (Donahue,
 p. 98; Kilcullen, Accidental Guerrilla p. 238-244)
-44. Pakistani Politics
-GTCW
+44. Pakistani Politics GTCW
 Shift Islamabad 1 box toward
 Tolerance. Then, if at Pressure,
 remove 1 Taliban Base from
@@ -599,6 +674,7 @@ between extremist organizations and Pakistan’s politics. (Afsar)
 45. Tribal Elders GTCW
 A voice in local shuras: Until end of next Propaganda, the Faction
 executing this event (mark) may follow any shift it causes in Support/Neutral/Opposition by setting the space to any level.
+
 MOMENTUM
 The traditional power and decision-making structure of tribal and
 village elders had been largely dismantled in many areas of Afghanistan by the previous 30 years of violence and social upheaval.
@@ -608,6 +684,7 @@ whichever faction might harness its power. (Johnson)
 TALIBAN CAPABILITIES
 Your papers, please: Marching Taliban always Activate when entering non-Pashtun Provinces.
 Kandahar Kinko’s Kopies Kards: Flip all Taliban that March into a
+
 Pashtun space Underground.
 Control of population movement is an important part of many counterinsurgency strategies, and issuing identification cards and local
 censuses are good ways to accomplish this. But cards can be forged
@@ -615,8 +692,10 @@ or stolen. (FM 3-24 Counterinsurgency, 5-33, 5-73)
 47. Loya Jirga GTWC
 Political alliances shore up national government: Set 2 Neutral
 non-Pashtun spaces to Support.
+
 Pashtuns fear erosion of dominance: Set 3 Neutral Pashtun Prov-
 36 A Distant Plain — PLAYBOOK
+
 
 inces to Opposition.
 A Loya Jirga or “grand council” is a traditional Pashtun method of
@@ -628,18 +707,20 @@ lead to important political realignments within the Afghan Government. (Collins,
 48. Strategic Partners GTWC
 New Delhi help: Aid +6, Govt Resources +6, Patronage +1.
 Pakistani fears fed: Shift Islamabad 2 boxes toward Sponsorship
+
 India was the largest regional donor to Afghanistan during the period and had an interest in the creation and maintenance of a stable
 regime there, both as a counterweight to Pakistan’s influence and
 to contain the spread of extremism and terrorism. (US DIA “(New)
 Great Game”)
-49. Crop Substitution
-GWCT
+49. Crop Substitution GWCT
 Slash and burn: Govt free
 Eradicates in any 1 Province
+
 with Govt cubes. Remove all
 Warlord pieces there.
 Diversify: Govt removes
 1 Warlord Base. Warlords then
+
 free Cultivate in up to 3 eligible
 spaces (as if Rallied there).
 Eradication of opium crops
@@ -654,8 +735,10 @@ cultivation and the amounts of money involved was much smaller.
 50. Development Aid GWCT
 Funds to projects: Coalition and Govt conduct Civic Action as if
 Support Phase, but spending Aid instead of Resources.
+
 Local diversion opportunity: +3 Patronage. Warlords add a die roll
 in Resources.
+
 Billions of dollars flowed into Afghanistan from foreign donors
 to improve the country’s infrastructure and economic function.
 Thousands of large and small projects were completed, to address
@@ -667,6 +750,7 @@ p. 66-71; Giustozzi 198-200)
 51. Karzai GWCT
 President taps cousins: +1 Patronage per space at Support.
 President deals to keep office: Transfer 2 die rolls of Patronage to
+
 Warlord Resources.
 Hamid Karzai, a Pashtun, was appointed President at the Bonn
 Accords in 2002. He thereafter was elected twice, though the
@@ -677,12 +761,14 @@ Like most men who had reached the height of national leadership
 of Afghanistan, he survived by making deals and brokering relationships among a complex web of family, ethnic, and religious
 organizations in a continuous and delicate balancing act. (Collins,
 p. 92-93; Moyar, p. 201-204)
-52. Power Shuffle
-GWTC Kabul respected: Replace up
+52. Power Shuffle GWTC
+Kabul respected: Replace up
 to 5 Warlord Guerrillas with
+
 Police.
 Kabul spurned: Replace up to 5
 Police with Warlord Guerrillas.
+
 See card 51. A major early
 achievement of Karzai’s presidency was the disarmament and
 reintegration of many warlord
@@ -691,9 +777,11 @@ militia forces in 2003-2004.
 53. Prison Break GWTC
 Guards bought: An Insurgent
 transfers 3 Resources to Patronage and places a piece where there
+
 is a Govt piece.
 Guards inept: Replace a Government piece with a Guerrilla.
 Coalition analysts agreed that the corrections system in Afghanistan
+
 is in need of significant improvement. There was a continued need
 for better constructed prisons, more and better screened guards, and
 a restoration of civilian faith that the prison system will be humane,
@@ -704,17 +792,22 @@ influence. (US DoD Report on Progress, p. 74-76)
 54. Profit Sharing GWTC
 Funneled to war effort: Warlords transfer 2 die rolls’ Resources to
 Government
+
 …or not: Warlords execute a free round of Traffic everywhere possible but add no Patronage.
 Profits from illegal and semi-legal activities by warlords did not
+
 always benefit the Taliban; occasionally such activities would deliver
 resources to the central government in exchange for other considerations such as influential offices or a promise of non-interference.
 55. Breaktime WCTG
 War-weary fighters vote with their feet: Coalition removes up to a
 die roll of Guerrillas.
+
 Troops help with harvest: Remove up to a die roll of Government
 cubes, no more than 1 per space.
+
 The tempo of fighting in Afghanistan is dominated by several climatic and agricultural factors: the cold winter, the harvest season for
 legitimate crops, and the timing of the poppy harvest. Both Taliban
+
 fighters and ANA/ANP troops will take breaks to rest, retrain, and
 bring in the sheaves.
 56. Fratricide WCTG
@@ -722,8 +815,10 @@ I thought we were buddies: Remove a Warlord Guerrilla and Base
 from a space with Taliban.
 
 
+
 Friendly uniforms fire on mentors: At 2 spaces with Govt Troops—1
 Coalition Troop or, if none, 1 Coalition Base to Casualties.
+
 Incidents in which Afghan troops or policemen wounded or killed
 members of Coalition forces working with them as embedded
 trainers or advisors increased after 2010. (Brookings Afghanistan
@@ -737,15 +832,18 @@ their advantage.
 57. Sandstorms WCTG
 Airborne grit: Until Propaganda, no Air Lift or Transport, Taliban
 March only 1 adjacent space, and Sweep Activates only 1 Guerrilla
+
 per 3 cubes (round down). Executing Faction remains Eligible.
 MOMENTUM
 There’s a reason that Coalition troops call Afghanistan “The Sandbox”.
 58. Counter-Narc WCGT
 Interdicted: Until Propaganda, halve (round down) Resources to
 Warlords from each Traffic.
+
 MOMENTUM
 Kabul buys crop: Transfer 1 Govt Resource to Warlords per COIN
 Control space with Warlords. +1 Patronage.
+
 Increased presence of security forces, especially Coalition troops,
 tended to reduce the amount of opium produced in major growing
 areas such as Helmand Province. However, troop presence was only
@@ -775,8 +873,10 @@ persuasion can buy a lot of elbow room. (Giustozzi 210-213)
 60. Tajiks WCGT
 Tajiks rally against Taliban threat: Shift 2 non-Pashtun spaces each
 1 level toward Support.
+
 Tajiks rally against Pashtun rule: Transfer a die roll of Patronage
 to Warlords Resources.
+
 Tajiks are the second largest ethnic group in Afghanistan, after Pashtuns. They comprise about 30% of the population and are concentrated in the northern and northeastern regions of the country. Tajik
 fighters dominated the Northern Alliance that resisted the Taliban
 during the Emirate period (1996-2001), and as such were important
@@ -807,8 +907,10 @@ to former militia or mujahideen commanders to join the insurgency.
 63. Teetotalers WTCG
 Strictly Koran: Remove 1 Warlord Base from each Taliban Control
 space, –1 Taliban Resource each.
+
 Lighten up, man: Each space with Warlord pieces, Warlords may pay
 –1 Resource per Taliban Guerrilla to remove any of them.
+
 During the period of the Taliban Government, opium production
 was discouraged, and indeed was almost completely shut down in
 2001. (CMFC, Counter-Narcotics in Afghanistan, p. 13) After the
@@ -817,6 +919,7 @@ participating in the process profitable (about 10% of the entire value
 of the opiates trade ended up in Taliban hands, estimates of the
 value varying between 70 and 400 million dollars a year: CMFC,
 Counter-Narcotics in Afghanistan, p. 44-45), they might again have
+
 decided that narcotics were a social ill with too high a social price
 (for example, there are an estimated 1.5 million opium addicts in
 Afghanistan, about 5% of the population).
@@ -825,6 +928,7 @@ Afghanistan, about 5% of the population).
 64. Hazara WTGC
 Ethnic cleansing: In each of 2 nonPashtun Mountain spaces— If
 Taliban present, set to Opposition. Then, if Warlord pieces exceed
+
 Govt, remove 2 Govt or Taliban pieces. If Govt exceeds Warlords,
 remove 2 Warlord pieces.
 The Hazara are Shia Muslims and compose about 9% of the population. (The great majority of Afghans are Sunni.) Historically they
@@ -834,11 +938,11 @@ from associating with the Government. (Afghanistan Smart Book)
 Across the border, in Quetta, Hazaras responded to extremist attacks
 with plans to organize for self defense, and persecuted Hazaras in
 central Afghanistan might have done the same.
-65. Islamabad Blocks
-Resupply WTGC
+65. Islamabad Blocks Resupply WTGC
 COIN effort, Taliban taxes both
 hurt: Sabotage both Roads adjacent to Pakistan. -7 Taliban
 Resources. Coalition and Govt
+
 Ineligible through next card.
 Executing Faction, if Insurgent,
 remains Eligible.
@@ -850,6 +954,7 @@ down the two main routes for
 Coalition supplies to reach landlocked Afghanistan from Pakistani
 seaports: once in 2010 for a week, and once in 2011-12 for almost
 nine months. The Coalition was forced to fly supplies in or use the
+
 Northern Delivery System of minor roads entering from the “Three
 ‘Stans”. This expedient was extremely expensive, but it did sidestep
 the network of Taliban “taxation” and raids on supply convoys along
@@ -857,14 +962,17 @@ the southern routes.
 66. Mountain Fastness WTGC
 Altitude sickness: Move a Faction’s pieces from 2 Mountains where
 it has no Bases to Available.
+
 Caves: In a Mountain, place any 2 Insurgent pieces and flip any
 Guerrillas desired Underground.
+
 Afghanistan is a high country, about half of it covered by mountains.
 In the east, the peaks of the Hindu Kush range rise to over 7,000
 meters. Kabul itself is 1,800 meters above sea level. (Collins, p. 5)
 This simple fact of geography helped determine how, when, and
 where fighting took place: the insurgents could always withdraw to
 the mountains but could not remain there for long.
+
 67. Change in Tactics WGCT
 Remove any 1 Capabilities marker that is in effect (shaded or unshaded). That Capability no longer applies.
 Measures and countermeasures are an enduring aspect of insurgency,
@@ -872,6 +980,7 @@ and so not all tactical or technical innovations maintain their battlefield impa
 68. Dostum WGCT
 Uzbek warlord returns from exile: 2 Support and 2 Opposition
 nonPashtun spaces to Neutral. Replace 3 Govt or 3 Warlord pieces
+
 in non-Pashtun spaces with any pieces of the other.
 Abdul Rashid Dostum, an Uzbek, had been a military commander
 in Afghanistan’s wars since the 1970s, fighting first against the mujahideen and then the Taliban. For a short time he was the Deputy
@@ -879,12 +988,13 @@ Minister of Defense in Hamid Karzai’s Government, but clashed
 with him and went into exile in Turkey. In 2009, he returned to
 Afghanistan and established a near-independent, Uzbek-dominated
 zone in northern Afghanistan.
-69. Mine Removal
-WGCT
+69. Mine Removal WGCT
 ANA specialists: Replace any
 4 Sabotage with any 1 Government cube each.
+
 Fields cleared: Set a 1-3Pop
 Province with COIN Control
+
 to Support and place a Warlord
 Base there.
 Thirty years of unrelenting
@@ -897,6 +1007,7 @@ positively.
 70. Contractor Surge WGTC
 Everyone gets a slice: Shift up to 3 spaces with Coalition and Govt
 pieces 1 level toward Support. Add +1 Patronage, +1 Taliban Resource, and +1 Warlord Resource per shift.
+
 Wide use of private contractors, especially private security companies employing local nationals, has been a hallmark of both the Iraq
 and Afghanistan counterinsurgencies. A case could be made that,
 while the behavior of these companies might be effective in solving immediate problems, it might in the long term work against the
@@ -907,6 +1018,7 @@ supply convoys to Coalition bases, ended up in the hands of the Taliban as a res
 71. Coup! WGTC
 New Pashtun or ex-Northern Alliance leader: Shift either 3 Pashtun
 or 3 non-Pashtun Provinces each 1 level toward Support. Govt Forces
+
 Desert; Govt Troops Redeploy; then adjust Control.
 No coup d’etat occurred to change Afghanistan’s Government during
 the period, though coups did depose Afghan governments in 1973
@@ -915,6 +1027,7 @@ could be a potent game-changer.
 72. Poppy Crop Failure WGTC
 Output plummets: Remove 1 Taliban or 2 Warlord Bases.
 Prices soar: Remove 1 Warlord piece. Then Insurgents each add +1
+
 Resource per their Guerrilla at Warlord Bases.
 While the amounts of money involved in the opium trade are spectacular (over $2 billion annually), prices are highly volatile and crops
 can easily fail. (CMFC Counter-Narcotics in Afghanistan, p. 8-13)
